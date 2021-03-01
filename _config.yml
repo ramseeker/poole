@@ -1,8 +1,8 @@
 # Setup
 title: Jim
-tagline: Writes
+tagline: Writes About Stuff
 url: https://jimwrites.com
-paginate: 1
+paginate: 10
 baseurl: ""
 permalink: pretty
 

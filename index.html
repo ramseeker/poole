@@ -12,9 +12,8 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {{ post.content }}
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date"> {{ post.date | date_to_string }} <a href="{{ post.link }}">Check Price on Amazon</a> </time>
+ <a href="{{ post.link }}"><img src="{{ post.image }}"></a>     {{ post.content }}
   </article>
   {% endfor %}
 </div>
