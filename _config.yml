@@ -2,7 +2,7 @@
 title: Jim
 tagline: Writes About Stuff
 url: https://jimwrites.com
-paginate: 10
+paginate: 1
 baseurl: ""
 permalink: pretty
 
@@ -11,6 +11,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-compress-images
 
 # Optimize Jekyll
 exclude:
