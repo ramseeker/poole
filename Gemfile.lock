@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/valerijaspasojevic/jekyll-compress-images.git
+  revision: af7c2e0527371a7b88d11d594cef9538b83230f1
+  specs:
+    jekyll-compress-images (1.2)
+      image_optim
+      image_optim_pack
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -51,9 +59,6 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
-    jekyll-compress-images (1.2)
-      image_optim
-      image_optim_pack
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
@@ -101,7 +106,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-compress-images
+  jekyll-compress-images!
   jekyll-gist
   jekyll-paginate
   jekyll-seo-tag

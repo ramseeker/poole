@@ -2,7 +2,7 @@
 title: Jim
 tagline: Writes About Stuff
 url: https://jimwrites.com
-paginate: 1
+paginate: 5
 baseurl: ""
 permalink: pretty
 
@@ -22,6 +22,7 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+  - _compress_images_cache.yml
 
 sass:
   sass_dir: _sass
@@ -40,3 +41,6 @@ author:
 
 # Custom vars
 version: 3.0.0
+
+imageoptim:
+  svgo: false
