@@ -1,4 +1,3 @@
-# All in on the Cloud
 
 ![](https://www.dropbox.com/s/twxsc8wvx6whont/2019-06-27%2019.51.15.jpg?raw=1)
 
