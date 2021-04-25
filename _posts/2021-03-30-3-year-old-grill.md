@@ -1,5 +1,6 @@
 ---
 title: The Three Year Grill
+layout: post
 ---
 
 ![grill](/assets/grill.jpg)
