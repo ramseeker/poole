@@ -1,6 +1,5 @@
 
-![](https://www.dropbox.com/s/twxsc8wvx6whont/2019-06-27%2019.51.15.jpg?raw=1)
-
+![face](/assets/face.jpg)
 
 I have been a little obsessive lately about backups. Specifically, my photos like the one you see above of my little one as I do not [want to lose them](https://jim.am/backup-your-photos/) due to some cloud failure. 
 
