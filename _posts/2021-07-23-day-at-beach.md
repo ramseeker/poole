@@ -1,5 +1,5 @@
 ---
-title: It's been a while
+title: It's Been a While
 layout: post
 ---
 
