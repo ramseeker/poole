@@ -2,7 +2,6 @@
 title: Hello World!
 layout: post
 ---
-![earth](/assets/earth.jpg)
 
 Hello World! Well, here we are. I guess I have to start somewhere and I guess the somwhere is **here**. This is just a silly liitle project I have had in the back of my mind for some time and I think it's a fine time to execute it.
 

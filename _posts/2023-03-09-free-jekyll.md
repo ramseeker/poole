@@ -3,10 +3,8 @@ title: It's kind of hard to beat free
 layout: post
 ---
 
-![pig](/assets/Pig.jpg)
 
-Photo by <a href="https://unsplash.com/@blankerwahnsinn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fabian Blank</a> on <a href="https://unsplash.com/images/things/money?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
 
 I've been waffling on whether I should use [Jekyll](http://jekyllrb.cocm),[Ghost](http://ghost.org) or even [Wordpress](http://wordpress.com) and [Blogger](http://blogspot.com) for my next project and I think I have settled on Jekyll.
 

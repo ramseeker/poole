@@ -3,7 +3,6 @@ title: Smartphone cases
 layout: post
 ---
 
-![phone cases](/assets/phonecase.jpg)
 
 He had lost his phone. Again.
 
