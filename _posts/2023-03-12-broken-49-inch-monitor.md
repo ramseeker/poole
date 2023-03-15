@@ -3,7 +3,7 @@ title: Samsung 49 Inch Monitor
 layout: post
 link: https://amzn.to/420O5q1
 ---
-
+![monitor](/assets/monitor.jpg)
 
 He was afraid this would happen. He had ordered a [49 inch Samsung Monitor](https://amzn.to/420O5q1)
  for his birthday. He was so careful to bring it inside and unpack it, and **then he saw it**. the crack
@@ -20,6 +20,7 @@ He was afraid this would happen. He had ordered a [49 inch Samsung Monitor](http
 
  That's all he can do.
 
-Like this story? Shop for <a href= " {{page.link }}"> {{ page.title }} </a> on Amazon
+### <mark> Like this story? Check Prices for <a href= " {{page.link }}"> {{ page.title }} </a> on Amazon</mark>
 
  
+

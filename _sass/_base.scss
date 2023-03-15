@@ -64,7 +64,10 @@ thead th {
 }
 
 mark {
-  padding: .15rem;
+  padding: .5rem;
   background-color: var(--yellow-100);
   border-radius: .125rem;
+    max-width: 500px;
+    height: 25px;
+
 }
