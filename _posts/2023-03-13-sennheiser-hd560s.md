@@ -1,5 +1,5 @@
 ---
-title: Sennheiser HD560s Headphones
+title: sennheiser hd560s headphones
 layout: post
 link: https://amzn.to/3LlVAln
 image: /assets/hd560.jpg

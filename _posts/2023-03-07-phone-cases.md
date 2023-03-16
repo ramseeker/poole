@@ -1,5 +1,5 @@
 ---
-title: Smartphone cases
+title: phone cases
 layout: post
 ---
 

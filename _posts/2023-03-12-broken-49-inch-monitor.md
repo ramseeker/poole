@@ -1,5 +1,5 @@
 ---
-title: Samsung 49 Inch Monitor
+title: samsung 49 inch monitor
 layout: post
 link: https://amzn.to/420O5q1
 image: /assets/ultrawide.jpg

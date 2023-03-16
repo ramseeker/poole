@@ -1,5 +1,5 @@
 ---
-title: It's kind of hard to beat free
+title: it's kind of hard to beat free
 layout: post
 ---
 
