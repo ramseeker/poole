@@ -16,4 +16,4 @@ expensive stuff: [RAIN X Windshield Washer Fluid](https://amzn.to/3FmEBM6) and t
 
 It's pricey, but it works. And that's all that matters.
 
-### <mark> Like this story? Check Prices for <a href= " {{page.link }}"> {{ page.title }} </a> on Amazon</mark>
+[Check Prices on Amazon for {{ page.title }}]( {{ page.link }} ){: .btn}

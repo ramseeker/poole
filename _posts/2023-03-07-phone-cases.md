@@ -11,3 +11,5 @@ You would think that for something so important to his day to day life that he w
 He sighed, and once again hit the "find my phone" app on his watch.
 
 The phone rang it's "find me" tone. He wandered around the house. It had to be somewhere. He went downstairs and nope - not there.
+
+[Check Prices on Amazon]( {{ page.link }} ){: .btn}

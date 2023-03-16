@@ -23,5 +23,5 @@ He was afraid this would happen. He had ordered a [49 inch Samsung Monitor](http
  That's all he can do.
 
 
-###  Check Prices for <a href= " {{page.link }}"> {{ page.title }} </a> on Amazon
+[Check Prices on Amazon for {{ page.title }}]( {{ page.link }} ){: .btn}
 
