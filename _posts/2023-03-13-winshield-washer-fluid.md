@@ -3,9 +3,8 @@ title: Windshield Washer Fluid
 layout: post
 link: https://amzn.to/3ZGubPt
 ---
-![rainx](/assets/rainx.jpg)
 
-  
+
 
 
 He never really thought much about washer fluid, because it's, well...washer fluid. He just bought whatever blue jug he
@@ -16,4 +15,4 @@ expensive stuff: [RAIN X Windshield Washer Fluid](https://amzn.to/3FmEBM6) and t
 
 It's pricey, but it works. And that's all that matters.
 
-[Check Prices on Amazon for {{ page.title }}]( {{ page.link }} ){: .btn}
+<a href="{{ page.link }}"> Amazon <span class="link-arrow"> &rarr;</span></a>

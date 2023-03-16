@@ -2,7 +2,6 @@
 title: Smartphone cases
 layout: post
 ---
-![phonecase](assets/phonecase.jpg)
 
 He had lost his phone. Again.
 
@@ -12,4 +11,4 @@ He sighed, and once again hit the "find my phone" app on his watch.
 
 The phone rang it's "find me" tone. He wandered around the house. It had to be somewhere. He went downstairs and nope - not there.
 
-[Check Prices on Amazon]( {{ page.link }} ){: .btn}
+<a href="{{ page.link }}"> Amazon <span class="link-arrow"> &rarr;</span></a>

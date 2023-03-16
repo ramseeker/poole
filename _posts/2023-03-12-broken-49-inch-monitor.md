@@ -4,7 +4,8 @@ layout: post
 link: https://amzn.to/420O5q1
 image: /assets/ultrawide.jpg
 ---
-<a href= " {{page.link }}"><img src=" {{ page.image }}"></a>
+
+
 
 He was afraid this would happen. He had ordered a [49 inch Samsung Monitor](https://amzn.to/420O5q1)
  for his birthday. He was so careful to bring it inside and unpack it, and **then he saw it**. the crack
@@ -22,6 +23,5 @@ He was afraid this would happen. He had ordered a [49 inch Samsung Monitor](http
 
  That's all he can do.
 
-
-[Check Prices on Amazon for {{ page.title }}]( {{ page.link }} ){: .btn}
+<a href="{{ page.link }}"> Amazon <span class="link-arrow"> &rarr;</span></a>
 

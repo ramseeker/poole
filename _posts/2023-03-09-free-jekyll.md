@@ -3,9 +3,6 @@ title: It's kind of hard to beat free
 layout: post
 ---
 
-![pig](/assets/Pig.jpg)
-
-
 
 I've been waffling on whether I should use [Jekyll](http://jekyllrb.cocm),[Ghost](http://ghost.org) or even [Wordpress](http://wordpress.com) and [Blogger](http://blogspot.com) for my next project and I think I have settled on Jekyll.
 
