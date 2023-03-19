@@ -3,16 +3,13 @@ layout: default
 title: Archive
 ---
 
-# Archive
+This is all the stuff I have so far...
 
-Browse all posts by month and year.
+{% assign sortedPosts = site.posts | sort: 'title' %}
 
-{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
-{% for yearMonth in postsByYearMonth %}
-  <h2>{{ yearMonth.name }}</h2>
+
   <ul>
-    {% for post in yearMonth.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for post in sortedPosts %}
+ <li> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+  </ul>
