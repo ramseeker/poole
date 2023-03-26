@@ -1,6 +1,7 @@
 ---
 title: wireless mouse
 layout: post
+link: https://amzn.to/3FSDZhx
 ---
 
 I am not sure how, but I have acquired a whole slew of wireless mice. My current daily driver is a
@@ -10,3 +11,6 @@ The other mice I have are usually [off brand wirless mice][cheapmice] that are j
 
 
 [cheapmice]: https://amzn.to/3z5AdNZ
+
+
+<a href="{{ page.link }}"> Amazon <span class="link-arrow"> &rarr;</span></a>
