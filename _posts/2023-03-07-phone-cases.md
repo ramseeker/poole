@@ -3,7 +3,7 @@ title: phone cases
 layout: post
 ---
 
-He had lost his phone. Again.
+He had lost his phone. Again. This wasn't the first time
 
 You would think that for something so important to his day to day life that he would pay more attention to it. It was usually lost in the house somewhere - placed up high where he wouldn't see it normally.
 
