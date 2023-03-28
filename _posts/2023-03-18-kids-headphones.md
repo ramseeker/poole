@@ -4,6 +4,8 @@ layout: post
 link: https://amzn.to/42puEaE
 ---
 
+![kidsheadphone](/assets/kidsheadphone.jpg)
+
 I don't know how parents did it before where they actually had to interact with thier kids. :)  I guess we had a lot more freedom as kids compared to now where we tend to keep tabs on our little ones **at all times** comared to days of yesteryear.
 
 Anyway, unless you're really strict or live a very simple life - your kid *probably* has a device. and that device makes sound.
