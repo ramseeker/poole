@@ -1,10 +1,9 @@
 ---
-title: Cheap Black Socks
+title: "Cheap Black Socks"
 layout: post
 link: https://amzn.to/3ZtQbw4
 ---
 
-![cheap black socks](/assets/blacksocks.jpg)
 
 Do yourself a favor and get yourself a good brand when it comes to **buying socks**. There's some things in life to spend your hard earned money on and when it comes to socks don't cheap out.
 
