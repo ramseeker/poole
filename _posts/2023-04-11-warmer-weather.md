@@ -1,0 +1,13 @@
+---
+title: On Warmer Weather
+layout: post
+---
+![](../assets/flowers.jpg)
+
+Thankfully, the weather is getting warmer here in the Greater Buffalo weather. I have [survived blizzards](https://en.wikipedia.org/wiki/January_2022_North_American_blizzard) and ice storms this year and I am glad to be over it now. 
+
+We're **not quite** at short sleeve weather, but close. It's supposed to hit 70 degrees later this week which will be **fantastic** after the winter we have had. 
+
+We played outside after dinner tonight and although it was a little cool and cloudy it was a blast to be outside with the family again.
+
+It was a long winter on the couch. 
