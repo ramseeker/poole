@@ -2,7 +2,8 @@
 title: On Warmer Weather
 layout: post
 ---
-![](../assets/flowers.jpg)
+
+![](/assets/flowers.jpg)
 
 Photo by <a href="https://unsplash.com/@mrthetrain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Hoehne</a> on <a href="https://unsplash.com/photos/yVlY_w7MEec?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
