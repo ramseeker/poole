@@ -3,7 +3,7 @@ title: Jim Writes
 tagline:
 url: https://jimwrites.com
 paginate: 10
-baseurl: ""
+baseurl: "ramseeker.github.io/poole/"
 permalink: pretty
 
 # Gems
