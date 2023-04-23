@@ -3,7 +3,7 @@ title: Goodbye Twitter
 layout: post
 ---
  	
-![twitter](assets/twitter.jpg)
+-![twitter](../assets/twitter.jpg)
 
 I quit twitter today. For a few reasons: 
 
