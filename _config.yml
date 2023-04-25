@@ -1,7 +1,7 @@
 # Setup
 title: jim writes
 tagline:  about his stuff.
-url: https://jimwrites.com
+url: http://ramseeker.github.io
 paginate: 10
 baseurl: "/poole"
 permalink: pretty
