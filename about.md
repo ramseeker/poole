@@ -2,37 +2,38 @@
 layout: page
 title: About
 ---
-# About!
 
-This is a silly idea. No, it's a **really silly idea** and I'm doing it anyway. I am writing about **all my stuff**
+ I have no idea what I am writing about most days and if you actually search the [archive](http://jimwrites.com/archive)
+ you will definitely agree with me. 
 
-All of it. 
+ In fact, I don't even know what to write here. What I do know is what I want to do is write or have some
+ space on the web to hang my shingle so here we are. 
 
-Why? Well for a few reasons...
+ I hope to have written more than the few small posts I have written so far here and over time
+ I will build an audience. I had thought about using all those newsletters that are popular right now
+ like [ghost](http://ghost.org) or [substack](http://substack.com) but as this is a long term 
+ project for me that I hope will be for decades I didn't want to risk tying myself to a platform. heck, that's one of the reasons why I [quit twitter](https://jimwrites.com/2023/04/22/goodbye-twitter/
+ )because even though it's the internet darling today it might not be tomorrow. 
 
-1. To see if I can create something out of thin air.
-2. Maybe I'll make a buck or two
-3. I want to start writing more. I just need to find the time. 
+ So, I'm using [jekyll](http://jekyllrb.com) and [firebase hosting](htttp://firebase.com) combined with any 
+ text editor I find to get my words from my head to the screen. It's not the most streamlined 
+ system but for me it works. 
 
-Time is one of the main reasons I decided to do this: It doesn't take a long time to get a blog post out - maybe 20 minutes or so, and that's about all I have. 
+ I have no grandeur ideas of getting rich with this. Some of these newsletter services make it sound
+ so easy: you just press some keys on your keyboard and the money flows out. And for a few, I bet this 
+ is the case. 
 
-I also like to try out new technologies and  this allows me to try out different blogging platforms from time to time or other software that allows me to write. 
+ I currently use all free services so I'm good with breaking even ;) 
 
-One last thing is of course to see if could build an audience. Will you care abOut what I write? Will you return? 
+ The goal is to write. It's hard to explain but once you get going it almost becomes addictive and
+ you can't stop. The problem I currently have is [lack of time](https://jimwrites.com/2023/04/23/about-twenty-minutes/)
+ but perhaps when the little one gets a little older I will find more time. Again, this is a long 
+ term project.  I'm okay with even **one** reader a decade from now. 
 
-Can I get this site to show up on the search engines at all? Can I rank a site that has **no** images at all and just text? 
+ Anyway, enough. 
 
-These are the questions that keep me up at night. Besides, it's either this or doom scroll and this seems a little more productive. 
-
-As I write this I have absolutely **no** visitors so I am not too worried about what I write about at this time. I also want to make this a long-term project as I have a lot of stuff and this will  **take a long time** so I might as well get started before my time runs out. 
-
-Here's hoping I make it. 
-
-ps. 
-
-
-
-
+ I'm Jim. I write. Hello. 
+ 
 
 
 
