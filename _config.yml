@@ -3,7 +3,7 @@ title: jim writes
 tagline:  about his stuff.
 url: https://jimwrites.com
 paginate: 10
-baseurl: ""
+baseurl: "/poole"
 permalink: pretty
 remote theme: poole
 
