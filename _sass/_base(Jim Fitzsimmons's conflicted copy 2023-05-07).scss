@@ -12,7 +12,7 @@ body {
   font-size: var(--body-font-size);
   line-height: var(--body-line-height);
   color: var(--body-color);
-  background-color: var(--body-bg); 
+  background-color: var(--body-bg);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -62,7 +62,14 @@ thead th {
   border-bottom-color: currentColor;
 }
 
+mark {
+  padding: .5rem;
+  background-color: var(--yellow-100);
+  border-radius: .125rem;
+    max-width: 500px;
+    height: 25px;
 
+}
 
 
 .btn {
@@ -71,15 +78,14 @@ thead th {
   border-radius: 5px;
   color: white;
   padding: 5px 22px;
-  margin: 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 22px;
   font-weight: bold;
-position:fixed;
-right:0 ;
-bottom:0;
+ margin-left: auto;
+ margin-right: auto;
+  position: block;
 
   }
 ul a {
@@ -123,7 +129,7 @@ input[type=submit]:hover {
 
 div {
   border-radius: 5px;
-  background-color: #ffffff;
+  background-color: #f2f2f2;
   padding: 20px;
 }
 

@@ -11,17 +11,30 @@
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
         <small> <a><B> {{ site.posts | size }} </B> posts
-    <a href="/archive"> / archive</a>  / <a href="/about"> about / </><a href=" https://buttondown.email/jimwrites"> <B>subscribe</B></a> </small>
+    <a href="/archive"> / archive</a>  / <a href="/about"> about </>
+        </h3><center>
+     <div class="btn"> <a href="https://buttondown.email/jimwrites" class="btn"> subscribe</a></div></center>
 
-        </h3><BR> Love these posts? <a href="https://buttondown.email/jimwrites"> subscribe </a> and support my work. 
-     
       </header>
       
        
-
       <main>
         {{ content }}
       </main>
+       <center>Jim Writes is supported by readers like you please consider supporting my writing with a subscription.</center>
+        <form
+  action="https://buttondown.email/api/emails/embed-subscribe/jimwrites"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/jimwrites', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <input type="email" name="email" id="bd-email" placeholder="enter email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
 
       <footer class="footer">
         
