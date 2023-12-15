@@ -5,6 +5,7 @@ url: https://jimwrites.com
 paginate: 10
 baseurl: ""
 permalink: pretty
+remote theme: poole
 
 # Gems
 plugins:
