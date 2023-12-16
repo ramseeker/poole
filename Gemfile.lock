@@ -80,11 +80,7 @@ GEM
     rouge (4.2.0)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
-<<<<<<< HEAD
-    sass-embedded (1.69.5)
-=======
     sass-embedded (1.63.6)
->>>>>>> refs/remotes/origin/main
       google-protobuf (~> 3.23)
       rake (>= 13.0.0)
     sawyer (0.9.2)
@@ -107,4 +103,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   2.3.20
+   2.4.8

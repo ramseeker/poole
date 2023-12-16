@@ -4,7 +4,7 @@ layout: post
 image: /assets/headphones.jpg
 ---
 
-![image]({{ page.image | resize: '800' }}))
+![image]({{ page.image | resize: '800' }})
 
 Photo by <a href="https://unsplash.com/@ervorocks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ervo Rocks</a> on <a href="https://unsplash.com/photos/pink-and-white-wireless-headphones-Zam8TvEgN5o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   

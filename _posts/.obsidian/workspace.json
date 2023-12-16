@@ -1,72 +1,64 @@
 {
   "main": {
-    "id": "e7c59e216d2ccdb0",
+    "id": "8c2d5336035dd902",
     "type": "split",
     "children": [
       {
-        "id": "c66eeccdd3165a30",
+        "id": "95d7f2c1eaea511c",
         "type": "tabs",
         "children": [
           {
-            "id": "32d39f5fbf13d46f",
+            "id": "2146171d18a0ab6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-11-hello-world.md",
+                "file": "2023-03-09-free-jekyll.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c00636be4a212a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6c6a205e87850b0",
+            "id": "eaaea10bb2f49bda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is a test..md",
+                "file": "2023-03-09-free-jekyll.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e5c5e37942c7841",
+            "id": "850388fc2b2edae3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/stopwatch.jpg.md",
+                "file": "2023-12-15-A-Story.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dbd3e6c29d65581d",
+    "id": "00977b7d5ae41334",
     "type": "split",
     "children": [
       {
-        "id": "fab76872b3280990",
+        "id": "b3ee9f0e554db379",
         "type": "tabs",
         "children": [
           {
-            "id": "25dbbcbf3e9f49d4",
+            "id": "cdb54150eb6efd92",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +68,7 @@
             }
           },
           {
-            "id": "3b4a8273e7d44951",
+            "id": "222c5f5d0fdf4c0a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,7 +83,15 @@
             }
           },
           {
-            "id": "e67dcdff580cfaa1",
+            "id": "2c6fc1bf50f410a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e1afca9004bbf17",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,27 +102,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "12343b2a02669e05",
+    "id": "650a68d4e5b52670",
     "type": "split",
     "children": [
       {
-        "id": "174a90770584cd4d",
+        "id": "09e8275f05843684",
         "type": "tabs",
         "children": [
           {
-            "id": "366515a0da9f0bab",
+            "id": "602ce3bf2f61099c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-15-A-Story.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -130,18 +130,19 @@
             }
           },
           {
-            "id": "65b04fcbfbfed571",
+            "id": "4c14aede497c0ebc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-15-A-Story.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d7e2b2852eaddb84",
+            "id": "53b420308684066e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,19 +153,21 @@
             }
           },
           {
-            "id": "ebb60842942bcdd0",
+            "id": "c988d66f168af95f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-15-A-Story.md.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +179,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c00636be4a212a6",
+  "active": "850388fc2b2edae3",
   "lastOpenFiles": [
-    "This is a test..md",
-    "assets/stopwatch.jpg.md",
-    "2023-11-26-Back-Again.md",
-    "assets",
-    "2023-03-22-travel-mugs.md",
-    "2023-03-26-wireless-mice.md",
-    "2023-03-11-hello-world.md"
+    "2023-03-09-free-jekyll.md",
+    "2023-12-15-A-Story.md.md",
+    "2023-12-15-childrens-headphones.md",
+    "2023-12-14-the-hairbru.md",
+    "2023-05-07-on-subsriptions.md",
+    "2023-05-06-sbustack-vs-ghost.md",
+    "2023-05-05-crocs.md",
+    "2023-04-27-what-old-new.md",
+    "2023-04-26-slamming-door.md",
+    "2023-04-25-the-best-laptops.md",
+    "2023-04-23-about-twenty-minutes.md",
+    "2023-04-22-goodbye-twitter.md",
+    "2023-04-18-socks-and-crocs.md",
+    "2023-04-16-the-river.md",
+    "2023-04-14-hotter-than-hell.md",
+    "2023-03-07-phone-cases.md",
+    "headphones.jpg",
+    "assets/copcar.jpg.md",
+    "assets/hello world.md",
+    "newmonitor.jpg",
+    "assets/dog.jpg.md",
+    "2023-03-16-short-rca-cables.md",
+    "2023-03-11-hello-world.md",
+    "2023-03-13-sennheiser-hd560s.md",
+    "2023-03-12-broken-49-inch-monitor.md",
+    "2023-12-12-A Big Test Post.md",
+    "2023-04-04-headphone-hooks.md",
+    "2023-04-01-cheap-black-socks.md",
+    "Untitled",
+    "Untitled/Untitled.canvas",
+    "assets"
   ]
 }
