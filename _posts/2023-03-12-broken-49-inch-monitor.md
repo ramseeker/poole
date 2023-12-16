@@ -1,11 +1,10 @@
 ---
-title: samsung 49 inch monitor
 layout: post
 link: https://amzn.to/420O5q1
 image: /assets/ultrawide.jpg
 ---
 
-
+![image]( {{page.image }})
 
 He was afraid this would happen. He had ordered a [49 inch Samsung Monitor](https://amzn.to/420O5q1)
  for his birthday. He was so careful to bring it inside and unpack it, and **then he saw it**. the crack
