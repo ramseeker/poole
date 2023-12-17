@@ -1,7 +1,12 @@
 ---
 title: The Hair Brush
 layout: post
+image: /assets/hairbrush.jpg
 ---
+![image]({{ page.image | resize: '800' }})
+
+Photo by <a href="https://unsplash.com/@element5digital?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Element5 Digital</a> on <a href="https://unsplash.com/photos/gray-corded-hair-dryer-and-red-comb-3bj1fSbxxe4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 
 She hated getting her hair [[brushed]], but it had to be done. She did not like it one bit and she completely shared her dislike with her father who was trying to do the brushing.
 
@@ -17,3 +22,4 @@ She was stubborn. All the techniques didn't work that they suggested on the inte
 
 He knew that one day he would be hard pressed to get her to stop combing her hair and he was unsure if that day would better or worse, so for now he would just deal with the tantrums and wait for a new day. That's all he could do.
 
+[Shop Hairbrushes on Amazon](https://amzn.to/3NwB9SX)
