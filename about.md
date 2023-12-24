@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-
+[[archive]]
 
 
  I have no idea what I am writing about most days and if you actually search the [archive](http://jimwrites.com/archive)
