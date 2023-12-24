@@ -2,7 +2,9 @@
 title: phone cases
 layout: post
 ---
-
+![phone](/assets/phone.jpg)
+Photo by <a href="https://unsplash.com/@quinoal?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Quino Al</a> on <a href="https://unsplash.com/photos/black-rotary-dial-phone-on-white-surface-8gWEAAXJjtI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 He had lost his phone. Again. This wasn't the first time
 
 You would think that for something so important to his day to day life that he would pay more attention to it. It was usually lost in the house somewhere - placed up high where he wouldn't see it normally.
