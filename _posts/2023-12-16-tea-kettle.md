@@ -1,8 +1,8 @@
 ---
 title: Tea Kettle
 layout: post
-image: /assets/tea.jpg
 link: http://amazon.com
+image: /assets/tea.jpg
 ---
 ![image]({{ page.image | resize: '800' }})
           

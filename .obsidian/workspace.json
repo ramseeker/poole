@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "544c960646153d34",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eee38c0759bcd0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ca4dc7d750906f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-12-16-tea-kettle.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42da3402baf986d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8066d3ded42d015",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "178550fd613caea1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04aaadf1c2e00eb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a40cbf2b13aaf939",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8e67c16a13a3203",
+    "type": "split",
+    "children": [
+      {
+        "id": "51319527d0b27e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3738ba6d3561a8eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f6fe6abfcb6eb56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1204a54b3b8349c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20bd543de1cab436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-13-26-Ozium-air-freshener.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "178550fd613caea1",
+  "lastOpenFiles": [
+    "{{.md",
+    "2023-13-26-Ozium-air-freshener.md",
+    "_posts/2023-12-16-tea-kettle.md",
+    "_posts/2023-12-23-night-before-christmas.md",
+    "_posts/2023-12-23-snowplow.md",
+    "_posts/2023-12-24-the-car-wash.md",
+    "_posts/2023-12-25-vtou.md",
+    "_posts/2023-03-13-sennheiser-hd560s.md",
+    "_posts/newmonitor.jpg",
+    "_posts/headphones.jpg",
+    "_posts/2023-03-07-phone-cases.md",
+    "_posts/2023-03-15-smartphone-cases.md",
+    "71YnvIEkWwL._AC_SL1500_.jpg",
+    "_posts/2023-03-09-free-jekyll.md",
+    "_posts/Phone Cases.md",
+    "_posts/71YnvIEkWwL._AC_SL1500_.jpg"
+  ]
+}
