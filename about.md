@@ -2,10 +2,8 @@
 layout: page
 title: About
 ---
-[[archive]]
 
-
- I have no idea what I am writing about most days and if you actually search the [archive](http://jimwrites.com/archive)
+ I have no idea what I am writing about most days and if you actually search the [archive](http://jims.one/archive)
  you will definitely agree with me.
 
  In fact, I don't even know what to write here. What I do know is what I want to do is write or have some
