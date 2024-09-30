@@ -11,10 +11,8 @@
             "id": "2146171d18a0ab6e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "sale.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -28,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2dc97d56b756e5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "---.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-07-phone-cases.md",
+                "file": "---.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-07-phone-cases.md",
+                "file": "---.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-07-phone-cases.md"
+                "file": "---.md"
               }
             }
           }
@@ -153,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,11 +173,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mixa:Publish to stuffocated.mixa.site with Mixa": false
     }
   },
-  "active": "cdb54150eb6efd92",
+  "active": "2dc97d56b756e5ac",
   "lastOpenFiles": [
+    "dog.jpg",
+    "---.md",
+    "colorsocks.jpg",
+    "assets.md",
     "posts/sale.jpg.md",
     "assets/sale.jpg",
     "2023-03-09-free-jekyll.md.md",
@@ -196,9 +212,7 @@
     "2023-04-22-goodbye-twitter.md",
     "2023-04-18-socks-and-crocs.md",
     "2023-04-16-the-river.md",
-    "2023-04-14-hotter-than-hell.md",
     "headphones.jpg",
-    "assets/copcar.jpg.md",
     "newmonitor.jpg",
     "Untitled",
     "Untitled/Untitled.canvas",
