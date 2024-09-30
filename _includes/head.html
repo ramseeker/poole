@@ -1,13 +1,7 @@
 <head>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-G71T5WWWFS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-G71T5WWWFS');
 </script>
+
+<script defer data-domain="jims.one" src="https://plausible.io/js/script.outbound-links.js"></script>
 
 <script src="https://kit.fontawesome.com/574ff3078b.js" crossorigin="anonymous"></script>
   <meta charset="UTF-8">
@@ -20,11 +14,10 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
   <link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/assets/apple-touch-icon-precomposed.png' | relative_url }}">
   <link rel="shortcut icon" href="{{ '/assets/favicon.ico' | relative_url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ 'atom.xml' | relative_url }}">
 
-  {% seo title=false %}
+
 </head>
