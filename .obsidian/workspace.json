@@ -11,11 +11,9 @@
             "id": "7ca4dc7d750906f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2023-12-16-tea-kettle.md",
-                "mode": "preview",
-                "source": false
+                "file": "assets/Pasted image 20241011220926.png"
               }
             }
           }
@@ -85,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/Pasted image 20241011220926.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/Pasted image 20241011220926.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-13-26-Ozium-air-freshener.md"
+                "file": "assets/Pasted image 20241011220926.png"
               }
             }
           }
@@ -146,9 +146,17 @@
   },
   "active": "178550fd613caea1",
   "lastOpenFiles": [
+    "firebase-debug.log",
+    "_site/assets/Pasted image 20241011220926.png",
+    "_posts/2024-10-09-thermal-printer.md",
+    "assets/Pasted image 20241011220926.png",
+    "_posts/2023-03-07-phone-cases.md",
+    "_posts/2024-10-01-Status-Audio-Headphones.md",
+    "_posts/2024-10-05-gaming-mouse-pad.md",
+    "_posts/2024-10-05-rival3-wireless-mouse.md",
+    "_posts/2023-12-16-tea-kettle.md",
     "{{.md",
     "2023-13-26-Ozium-air-freshener.md",
-    "_posts/2023-12-16-tea-kettle.md",
     "_posts/2023-12-23-night-before-christmas.md",
     "_posts/2023-12-23-snowplow.md",
     "_posts/2023-12-24-the-car-wash.md",
@@ -156,7 +164,6 @@
     "_posts/2023-03-13-sennheiser-hd560s.md",
     "_posts/newmonitor.jpg",
     "_posts/headphones.jpg",
-    "_posts/2023-03-07-phone-cases.md",
     "_posts/2023-03-15-smartphone-cases.md",
     "71YnvIEkWwL._AC_SL1500_.jpg",
     "_posts/2023-03-09-free-jekyll.md",

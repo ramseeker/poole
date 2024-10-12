@@ -32,3 +32,5 @@ There's no forcing yourself to give an entire album a listen as you can just dec
 He had bought the CD with  his hard earned money and  he was going to like it and listen to it, even if he hated it. 
 
 Sometimes the first impression was not the best impression when it came to music
+
+![[Pasted image 20241011220926.png]]
