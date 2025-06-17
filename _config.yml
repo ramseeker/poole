@@ -26,6 +26,8 @@ exclude:
 sass:
   sass_dir: _sass
   style: :compressed
+  quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
+  silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607
 
 # Options
 
