@@ -7,6 +7,8 @@ layout: post
 
 ![printer](/assets/printer.jpg)
 
+![child running](/assets/running.jpg)
+
 Photo by <a href="https://unsplash.com/@msgr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Geri Sakti</a> on <a href="https://unsplash.com/photos/a-large-machine-with-a-lot-of-papers-on-it-CYrYxz-uvE4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 He was not sure how he got there but he had over 1000 CD's and records he wanted to sell on eBay. This was going to take a long time to do and he was not looking forward to it as he knew he would not get anywhere near where he paid for all these CD's
