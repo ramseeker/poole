@@ -11,10 +11,14 @@
             "id": "7ca4dc7d750906f2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20241011220926.png"
-              }
+                "file": "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-22-we-fed-the-sea-monkeys.md"
             }
           }
         ]
@@ -36,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20241011220926.png",
+                "file": "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-11-22-we-fed-the-sea-monkeys.md"
             }
           },
           {
@@ -100,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20241011220926.png",
+                "file": "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-11-22-we-fed-the-sea-monkeys.md"
             }
           },
           {
@@ -113,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20241011220926.png"
-              }
+                "file": "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-11-22-we-fed-the-sea-monkeys.md"
             }
           }
         ]
@@ -136,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -144,12 +169,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "178550fd613caea1",
+  "active": "7ca4dc7d750906f2",
   "lastOpenFiles": [
     "firebase-debug.log",
+    "_site/y/index.html",
+    "_site/y/404.html",
+    "_site/y",
+    "_site/n/index.html",
+    "_site/n/404.html",
+    "_site/n",
+    "n/index.html",
+    "n/404.html",
+    "n",
+    "y/index.html",
+    "_posts/_site/2025-11-20-Mens-adidas-hoodie.md",
+    "_posts/2025-11-22-sea-monkeys.md",
+    "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
+    "assets/Pasted image 20241011220926.png",
+    "assets/goldfish.png",
+    "_site/assets/goldfish.png",
+    "_site/2025/11/22/we-fed-the-sea-monkeys.md",
+    "_site/assets/zhengtao-tang-V7SKRhXskv8-unsplash.jpg",
+    "_site/assets/nas.jpg",
+    "_site/assets/Pasted image 20251122193908.png",
+    "assets/zhengtao-tang-V7SKRhXskv8-unsplash.jpg",
     "_site/assets/Pasted image 20241011220926.png",
     "_posts/2024-10-09-thermal-printer.md",
-    "assets/Pasted image 20241011220926.png",
     "_posts/2023-03-07-phone-cases.md",
     "_posts/2024-10-01-Status-Audio-Headphones.md",
     "_posts/2024-10-05-gaming-mouse-pad.md",
@@ -165,9 +210,7 @@
     "_posts/newmonitor.jpg",
     "_posts/headphones.jpg",
     "_posts/2023-03-15-smartphone-cases.md",
-    "71YnvIEkWwL._AC_SL1500_.jpg",
     "_posts/2023-03-09-free-jekyll.md",
-    "_posts/Phone Cases.md",
-    "_posts/71YnvIEkWwL._AC_SL1500_.jpg"
+    "_posts/Phone Cases.md"
   ]
 }

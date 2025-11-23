@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "jims-one"
-  }
+    "default": "jims-a2a71",
+    "jekyll": "jims-a2a71"
+  },
+  "targets": {},
+  "etags": {}
 }
