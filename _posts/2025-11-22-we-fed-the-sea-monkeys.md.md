@@ -7,7 +7,7 @@ published: "true"
 
 We fed the sea monkeys  today and it was okay for us and a little fun and then we wrote about other stuff but we could not find a way to get some writing done. I really like this. 
 
-Here's a few sea monkeys you can buy: 
+Here's a few sea monkeys you can buy if you choose
 
 
 [Amazon.com: Animagic Aqua Dragons Hatch 'n' Grow Basic Tank \| Build an Aquatic Ecosystem, Watch Prehistoric Pets Hatch & Grow Science Kit \| Ages 6+ : Toys & Games](https://amzn.to/47WrsIf)
