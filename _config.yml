@@ -12,6 +12,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-wikirefs
 
 # Optimize Jekyll
 exclude:
@@ -41,4 +42,4 @@ author:
   email: markdotto@gmail.com
 
 # Custom vars
-version: 3.0.0
+
