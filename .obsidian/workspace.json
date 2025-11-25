@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-22-we-fed-the-sea-monkeys.md"
+              "title": "about"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "2025-11-20-Mens-adidas-hoodie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
+                "file": "_posts/2025-11-20-Mens-adidas-hoodie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11-22-we-fed-the-sea-monkeys.md"
+              "title": "Backlinks for 2025-11-20-Mens-adidas-hoodie"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
+                "file": "_posts/2025-11-20-Mens-adidas-hoodie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11-22-we-fed-the-sea-monkeys.md"
+              "title": "Outgoing links from 2025-11-20-Mens-adidas-hoodie"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
+                "file": "_posts/2025-11-20-Mens-adidas-hoodie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-22-we-fed-the-sea-monkeys.md"
+              "title": "Outline of 2025-11-20-Mens-adidas-hoodie"
             }
           }
         ]
@@ -183,52 +184,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "178550fd613caea1",
+  "active": "089c2d537d15561e",
   "lastOpenFiles": [
+    "about.md",
+    "_posts/2025-11-20-Mens-adidas-hoodie.md",
+    "_site/assets/Pasted image 20241011220926.png",
+    "assets/Pasted image 20241011220926.png",
+    "_site/assets/keyboard.jpg",
+    "assets/keyboard.jpg",
+    "_site/assets/Pasted image 20251124204014.png",
+    "_site/assets/Pasted image 20251124194558.png",
+    "assets/Pasted image 20251124204014.png",
+    "assets/Pasted image 20251124194558.png",
+    "_site/assets/Pasted image 20251124205852.png",
+    "assets/Pasted image 20251124205852.png",
+    "_site/2025/11/24/kid-schechers-shoes-with-lights/index.html",
+    "_site/2025/11/24/kid-schechers-shoes-with-lights",
+    "_site/2025/11/24",
+    "_posts/2025-11-24-kid-schechers-shoes-with-lights.md",
+    "_site/pages/contents.md",
+    "_site/pages",
+    "_site/{{.md",
+    "pages/contents.md",
+    "{{.md",
+    "assets/img/2025-11-22-This-is-a-test",
+    "assets/img",
+    "pages",
+    "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
     "firebase-debug.log",
     "_posts/2025-11-21-Trivets.md.md",
     "assets/Pasted.md",
     "_site/assets/Pasted.md",
-    "assets/corktrivet.png",
-    "_site/assets/corktrivet.png",
-    "assets/Pasted image 20241011220926.png",
-    "_site/assets/Pasted image 20251122211602.png",
     "_site/assets/pas.md",
     "assets/pas.md",
-    "assets/trivet.png",
-    "_site/assets/trivet.png",
     "_site/2025/11/21/Trivets.md/index.html",
     "_site/2025/11/21/Trivets.md",
     "_site/2025/11/21/Trivets/index.html",
-    "_site/2025/11/21/Trivets",
-    "_site/2025/11/21",
-    "_site/assets/trivet.jpg",
-    "_site/assets/Pasted image 20251122204126.png",
-    "assets/trivet.jpg",
-    "_posts/2025-11-20-Mens-adidas-hoodie.md",
     "_posts/2025-11-19-glass-pen-holder.md",
     "archive.md",
-    "about.md",
-    "{{.md",
-    "pages/contents.md",
-    "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
     "_posts/2025-11-22-this-test.md",
-    "_site/y/index.html",
-    "_site/y/404.html",
-    "_site/y",
-    "_site/n/index.html",
-    "_site/n/404.html",
     "_posts/_site/2025-11-20-Mens-adidas-hoodie.md",
     "_posts/2025-11-22-sea-monkeys.md",
-    "assets/goldfish.png",
     "_site/2025/11/22/we-fed-the-sea-monkeys.md",
     "_posts/2024-10-09-thermal-printer.md",
     "_posts/2023-03-07-phone-cases.md",
     "_posts/2024-10-01-Status-Audio-Headphones.md",
     "_posts/2024-10-05-gaming-mouse-pad.md",
-    "_posts/2024-10-05-rival3-wireless-mouse.md",
-    "_posts/2023-12-16-tea-kettle.md",
-    "2023-13-26-Ozium-air-freshener.md",
-    "_posts/2023-12-23-night-before-christmas.md"
+    "_posts/2024-10-05-rival3-wireless-mouse.md"
   ]
 }
