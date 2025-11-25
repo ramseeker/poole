@@ -2,8 +2,8 @@
 title: Kid's Skechers Shoes
 layout: post
 ---
->### Jim's Pick
- [Skechers Girls Eternal Heart Lights](https://amzn.to/3LX794P)
+### Jim's Pick
+ >[Skechers Girls Eternal Heart Lights](https://amzn.to/3LX794P)
 
 ![[Pasted image 20251124205852.png]]
 
