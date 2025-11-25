@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "baseFontSize": 20
 }
