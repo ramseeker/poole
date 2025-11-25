@@ -7,7 +7,7 @@ link: http://amazon.com
 
 <a href="{{ page.link }}"> This is my favorite hoodie</a>
 
-I have fallen when it comes to fashion. At [[2025-11-22-glass-pen-holder]] time it was all about the look and now comfort trumps all and I live in a hoodie almost all the time now. 
+I have fallen when it comes to fashion. At one time it was all about the look and now comfort trumps all and I live in a hoodie almost all the time now. 
 
 ![hooded sweatshirt](/assets/hoodie.jpg)
 
