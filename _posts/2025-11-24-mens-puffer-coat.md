@@ -1,6 +1,6 @@
 I really don't care much for what winter coat I have as my current lifestyle is to go from house to car most days and **maybe** have to stand around and wait for the school bus with my daughter in the am.  
 
-[![[Pasted image 20251123192231.png]]](https://amzn.to/3XIPPDg)
+![[Pasted image 20251130164107.png]]
 I have the Amazon essentials puffer jacket and one of the better features of this jacket is that it is cheap and is often on sale for $20 or so which in 2025 is a great price for a jacket of any kind.
 
 

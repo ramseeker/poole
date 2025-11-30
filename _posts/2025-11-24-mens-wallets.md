@@ -1,6 +1,6 @@
 
 Oh, wallets. I've had a few in my lifetime but they've never seemed to be the one. I had a [velcro wallet](https://amzn.to/4oev25n) one once and that was great until you opened it and realized that people were staring. 
-
+![[Pasted image 20251130164324.png]]
 
 > [!Jim's Pick] Jim's Pick - This is the wallet I would buy if I had to do it all over again
 > [Amazon.com: Vaultskin MOORGATE Slim Card Holder – Minimalist Leather Wallet with RFID Blocking, Front Pocket Credit Card Case for Men & Women (Royal Blue) : Clothing, Shoes & Jewelry](https://amzn.to/3LS1XiJ)
