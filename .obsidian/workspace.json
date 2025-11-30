@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-11-24-mens-wallets.md",
+                "file": "_posts/2025-11-30-mens-levis-jeans.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-24-mens-wallets"
+              "title": "2025-11-30-mens-levis-jeans.md"
             }
           }
         ],
@@ -186,6 +186,12 @@
   },
   "active": "089c2d537d15561e",
   "lastOpenFiles": [
+    "firebase-debug.log",
+    "_site/2025/11/30/mens-levis-jeans.md/index.html",
+    "_site/2025/11/30/mens-levis-jeans.md",
+    "_site/2025/11/30",
+    "_posts/2025-11-24-mens-wallets.md",
+    "_posts/2025-11-30-mens-levis-jeans.md.md",
     "_site/assets/Pasted image 20251130164324.png",
     "assets/Pasted image 20251130164324.png",
     "_posts/2025-11-24-mens-puffer-coat.md",
@@ -194,12 +200,10 @@
     "_posts/2025-11-19-glass-pen-holder.md",
     "about.md",
     "_posts/2025-11-24-kid-schechers-shoes-with-lights.md",
-    "firebase-debug.log",
     "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
     "_posts/2025-11-22-glass-pen-holder.md",
     "_posts/2025-11-21-Trivets.md.md",
     "_posts/2025-11-20-Mens-adidas-hoodie.md",
-    "_posts/2025-11-24-mens-wallets.md",
     "{{.md",
     "71YnvIEkWwL._AC_SL1500_.jpg",
     "_site/2025/11/24/travel-mug/index.html",
@@ -213,11 +217,9 @@
     "assets/scissors.jpg",
     "_site/2025/11/24/Scissors",
     "assets/img/2025-11-22-This-is-a-test",
-    "assets/img",
     "_site/assets/Pasted image 20241011220926.png",
     "assets/Pasted image 20241011220926.png",
     "_site/assets/keyboard.jpg",
-    "assets/keyboard.jpg",
     "_site/pages/contents.md",
     "_site/{{.md",
     "pages/contents.md",
@@ -229,8 +231,6 @@
     "archive.md",
     "_posts/2025-11-22-this-test.md",
     "_posts/_site/2025-11-20-Mens-adidas-hoodie.md",
-    "_posts/2025-11-22-sea-monkeys.md",
-    "_site/2025/11/22/we-fed-the-sea-monkeys.md",
-    "_posts/2024-10-09-thermal-printer.md"
+    "_posts/2025-11-22-sea-monkeys.md"
   ]
 }
