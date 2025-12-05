@@ -11,11 +11,9 @@ I would be rich if I didn't have to buy mittens for the child. This, and [[2025-
 With this knowledge I suggest that you buy the cheapest winter mittens or gloves you can find. 
 ## Jim's Pick
 
-<<<<<<< HEAD
-[Amazon.com: 3 Pairs Kids Thicken Snow Mitten Winter Gloves Waterproof Warm Ski Mitten Toddler Boys Girls (Fluorescent Green, Pink, Purple,5-10 Years): Clothing, Shoes & Jewelry](https://amzn.to/4q5EY2D)
-=======
 >[Amazon.com: 3 Pairs Kids Thicken Snow Mitten Winter Gloves Waterproof Warm Ski Mitten Toddler Boys Girls (Fluorescent Green, Pink, Purple,5-10 Years): Clothing, Shoes & Jewelry](https://amzn.to/4q5EY2D)
->>>>>>> refs/remotes/origin/main
+
+
 
 I like these because they're cheap enough and you get 3 pairs for about 5 bucks which isn't bad at all for kids mittens. You could buy more expensive mittens but why would you when they either get lost or eaten by the Dog?
 

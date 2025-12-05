@@ -5,7 +5,7 @@ published: "true"
 ---
 ![goldfish](/assets/goldfish.png)
 
-We fed the sea monkeys  today and it was okay for us and a little fun and I can't believe that the sea monkeys are actually growing. I thought she was going to jump out of her [[2025-11-24-kid-schechers-shoes-with-lights|shoes]] when she saw the first monkey swimming in the water. 
+We fed the sea monkeys  today and it was okay for us and a little fun and I can't believe that the sea monkeys are actually growing. I thought she was going to jump out of her [[2025-11-24-kid-schechers-shoes-with-lights.md|shoes]] when she saw the first monkey swimming in the water. 
 
 These are a fun little thing and seem to be age appropriate too. 
 

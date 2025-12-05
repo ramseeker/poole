@@ -17,7 +17,7 @@ I really don't know why one would need a handkerchief unless it was to tuck in a
 **Rating:** 4.6 stars
 
 
-[Buy Now](https://amzn.to/4rzIfJ3)
+**[Buy Now on Amazon](https://amzn.to/4rzIfJ3)**
 
 It seems pretty gross to me  to  have to use a handkerchief in 2025 when you have a more palatable option of [[2025-12-03-facial-tissue.md|facial tissues]] because somehow the idea of walking around with a pocket full of boogers isn't my idea of a good time. 
 
