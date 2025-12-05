@@ -42,6 +42,26 @@ author:
   email: markdotto@gmail.com
 
 # Custom vars
+wikilinks:
+  attributes:
+    enabled: true
+  case:
+    'lower case'
+  css:
+    exclude: []
+    name:
+      typed: 'typed'
+      wiki: 'wiki-link'
+      web: 'web-link'
+      invalid_wiki: 'invalid-wiki-link'
+      embed_container: 'embed-container'
+      embed_title: 'embed-title'
+      embed_content: 'embed-content'
+      embed_link: 'embed-wiki-link'
+      embed_image_container: 'embed-image-container'
+      embed_image: 'embed-image'
+  enabled: true
+  exclude: []
 
 google_analytics: G-M6RD32CN4Q
 

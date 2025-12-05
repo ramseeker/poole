@@ -1,7 +1,13 @@
 {
   "projects": {
+<<<<<<< HEAD
+    "default": "jims-a2a71",
+    "jekyll": "jims-a2a71",
+    "jim": "jims-926e6"
+=======
     "default": "jims-926e6",
     "jekyll": "jims-a2a71"
+>>>>>>> ea9e3d0f450a2c046c9c066fd060d00a9dc6c16a
   },
   "targets": {},
   "etags": {}

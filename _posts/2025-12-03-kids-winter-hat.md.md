@@ -13,7 +13,18 @@ That's why we don't spend a lot of money on winter hats for the kiddo because wh
 
 Here's a four pack of winter hats for about twelve bucks that would do the trick: 
 
+<<<<<<< HEAD
 [DEBAIY 3Pack Beanies Hats Knitted Caps for Men & Women & Teen (Coffee Brown/Cream White/Beige) at Amazon Men’s Clothing store](https://amzn.to/44J7Ipi)
+=======
+>[DEBAIY 3Pack Beanies Hats Knitted Caps for Men & Women & Teen (Coffee Brown/Cream White/Beige) at Amazon Men’s Clothing store](https://amzn.to/44J7Ipi)
+
+**Pros:** Warm in cold weather, comfortable and soft
+
+**Cons:** Could be thicker in weight
+
+**Rating** 4.5 stars
+
+>>>>>>> refs/remotes/origin/main
 
 There is absolutely no sense in buying anything greater unless the conditions are really cold and you then you should just keep the kiddos inside anyway and have them watch movies on their [[2025-12-03-kids-amazon-tablet.md|tablet]]
 

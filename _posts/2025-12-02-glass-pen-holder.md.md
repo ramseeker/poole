@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 Title: Glass Pen Holder
+=======
+title: Glass Pen Holder
+>>>>>>> refs/remotes/origin/main
 layout: post
 description: a pretty good pen holder for about ten bucks
 price: under $10.00
@@ -14,12 +18,18 @@ It's hard to find a sturdy holder for your [[pens]] and [[scissors]] and [[highl
 
 ### Jim's Pick:
 > 
+<<<<<<< HEAD
 **[Amazon.com : Officepal Pen Holder for Desk, Ceramic Pencil Organizer & Makeup Brush Holder, Office Decor and Desk Accessories，Perfect Office Organization,Teacher Supplies (White, Set / 1) : Office Products](https://amzn.to/44dnXL7)
 ** 
+=======
+[Amazon.com : Officepal Pen Holder for Desk, Ceramic Pencil Organizer & Makeup Brush Holder, Office Decor and Desk Accessories，Perfect Office Organization,Teacher Supplies (White, Set / 1) : Office Products](https://amzn.to/44dnXL7)
+
+>>>>>>> refs/remotes/origin/main
 This one wins because it's relatively cheap and is not as flimsy as the other pen holders available. It's only about 10 bucks too. [check price](https://amzn.to/44dnXL7)
 
 If it came down to it, I would choose the Ceramic Model as my replacement for my glass one. The glass one has survived the years but I think the ceramic is one I want to use as my every day if I had to do it all over. 
 
+<<<<<<< HEAD
 Here's a few other options that didn't make the cut for one reason or another: 
 
 [Amazon.com: Shonmogar Desk Organizer with 3-Compartments,Glass Small Desk Organizer for Pens Pencils Business Cards Sticky Notes Paper Clips,Gold Stylish Pen Holder for Desk Home Office Decor : Office Products](https://amzn.to/3K4m2Sc)
@@ -29,6 +39,8 @@ Here's a few other options that didn't make the cut for one reason or another:
 [Amazon.com : Black Pen Holder Cup for Desk, Black Wire Mesh Pencil Cup Holder for Desk Office Pen Organizer : Office Products](https://amzn.to/4pfMoQ5)
 
 
+=======
+>>>>>>> refs/remotes/origin/main
 **Shop for Pen Holders on Amazon** 
 [Amazon.com : glass+pen+holder](https://amzn.to/3XF6s2C)
 
