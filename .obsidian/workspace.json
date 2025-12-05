@@ -302,11 +302,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "75ae81cbef590085",
   "lastOpenFiles": [
+    "_site/2025/11/24/travel-mug.md/index.html",
+    "_site/2025/11/24/travel-mug.md",
+    "_site/2025/11/24/mens-puffer-coat.md/index.html",
+    "_site/2025/11/24/mens-puffer-coat.md",
+    "_site/2025/11/24/kid-schechers-shoes-with-lights.md/index.html",
+    "_site/2025/11/24/kid-schechers-shoes-with-lights.md",
+    "_site/2025/11/20/Mens-adidas-hoodie.md/index.html",
+    "_site/2025/11/20/Mens-adidas-hoodie.md",
     "_posts/2025-11-20-Mens-adidas-hoodie.md.md",
     "_posts/2025-11-21-Trivets.md.md",
     "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
@@ -328,17 +337,12 @@
     "_posts/2025-12-03-kids-mittens.md.md",
     "_posts/2025-12-03-kids-winter-hat.md.md",
     "_posts/2025-12-04-hankerchief.md.md",
-    "pages/contents.md",
     "_site/pages/about/index.html",
     "_site/pages/about",
     "_site/pages/archive/index.html",
     "_site/pages/archive",
-    "poole/poole/poole/poole/_site/pages/contents.md",
-    "poole/poole/poole/poole/_site/poole/highlighters.md",
     "poole/poole/assets/airfresh.jpg",
-    "poole/poole/poole/_site/poole/poole/highlighters.md",
     "poole/poole/assets/carewash.jpg",
-    "poole/poole/poole/_site/poole/poole/assets/wash.jpg.md",
     "poole/poole/assets/download.jpg",
     "poole/poole/assets/trivet.png",
     "poole/poole/assets/corktrivet.png",
@@ -349,9 +353,6 @@
     "poole/poole/assets/riverwalk.jpg",
     "poole/poole/_site/page7",
     "poole/poole/poole/poole/_site/poole/2025/11/24/kid-schechers-shoes-with-lights",
-    "poole/poole/poole/poole/poole/assets/img/2025-11-22-This-is-a-test",
-    "poole/poole/poole/poole/_site/poole/2025/11/20/Mens-adidas-hoodie",
-    "poole/poole/_site/poole/poole/poole/archive",
-    "poole/poole/poole/poole/_site/poole/2025/11/24/mens-puffer-coat"
+    "poole/poole/poole/poole/poole/assets/img/2025-11-22-This-is-a-test"
   ]
 }
