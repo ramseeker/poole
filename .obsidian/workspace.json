@@ -285,13 +285,23 @@
               "icon": "lucide-list",
               "title": "Outline of 2025-11-19-glass-pen-holder"
             }
+          },
+          {
+            "id": "123cb4962efaf13d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
