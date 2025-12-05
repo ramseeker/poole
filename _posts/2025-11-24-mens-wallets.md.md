@@ -17,11 +17,7 @@ Oh, wallets. I've had a few in my lifetime but they've never seemed to be the on
 
 I always, always wore my wallet that had every receipt in it from 1985 becausse, you never know when you might need it again. 
 
-<<<<<<< HEAD
-=======
 
-
->>>>>>> refs/remotes/origin/main
 But then I found out about minimalist wallet. I'm no minimalist as [[We Have That At Home!| this site]] will show over time but man it's nice to get this thing into your front pocket instead of the back because it's a lot easier on the back and you don't have  take your wallet out after driving for 40 minutes because you can't feel your  ass anymore. 
 
 If my pick doesn't do it for you there's a few other wallets that might work and are still minimal: 
