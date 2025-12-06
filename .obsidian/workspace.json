@@ -151,8 +151,7 @@
               "state": {
                 "aFile": ".obsidian/workspace.json",
                 "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aRef": ""
               },
               "icon": "diff",
               "title": "Diff: workspace.json"
@@ -317,8 +316,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75ae81cbef590085",
+  "active": "123cb4962efaf13d",
   "lastOpenFiles": [
+    "firebase-debug.log",
     "_posts/25-12-06-kids-winter-boots.md.md",
     "_site/2025/12/06/kids-winter-boots.md/index.html",
     "_site/2025/12/06/kids-winter-boots.md",
@@ -329,7 +329,6 @@
     "_site/ramseeker/index.html",
     "_site/ramseeker",
     "ramseeker.md",
-    "firebase-debug.log",
     "_posts/2025-12-02-pots-pans.md.md",
     "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
     "about.md",
