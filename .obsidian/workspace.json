@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ramseeker.md",
+                "file": "_posts/2025-11-24-mens-wallets.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ramseeker"
+              "title": "2025-11-24-mens-wallets.md"
             }
           }
         ],
@@ -320,17 +320,12 @@
   "lastOpenFiles": [
     "_site/ramseeker/index.html",
     "_site/ramseeker",
-    "about.md",
     "ramseeker.md",
-    "_site/ramseeker.md",
-    "_site/Untitled.md",
-    "_posts/2025-12-03-facial-tissue.md.md",
-    "archive.md",
-    "ramseeker",
-    "_posts/2025-11-24-mens-wallets.md.md",
     "firebase-debug.log",
     "_posts/2025-12-02-pots-pans.md.md",
     "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
+    "about.md",
+    "archive.md",
     "pages/contents.md",
     "_site/about/index.html",
     "_site/about",
@@ -342,6 +337,7 @@
     "_site/2025/11/24/mens-puffer-coat.md",
     "_site/2025/11/24/kid-schechers-shoes-with-lights.md/index.html",
     "_site/2025/11/24/kid-schechers-shoes-with-lights.md",
+    "_site/2025/11/20/Mens-adidas-hoodie.md/index.html",
     "_site/2025/11/20/Mens-adidas-hoodie.md",
     "_posts/2025-11-20-Mens-adidas-hoodie.md.md",
     "_posts/2025-11-21-Trivets.md.md",
@@ -349,11 +345,15 @@
     "_posts/2025-11-24-mens-puffer-coat.md.md",
     "_posts/2025-11-24-travel-mug.md.md",
     "_posts/2025-11-24-mens-wallets.md",
+    "_posts/2025-11-24-mens-wallets.md.md",
     "_posts/2025-11-30-mens-levis-jeans.md.md",
     "_posts/2025-12-02-dishcloths.md.md",
     "_posts/2025-12-02-kitchen-dishes.md.md",
     "_posts/2025-12-02-marlboro-coffeep-cup.md.md",
     "_posts/2025-12-02-steel-wool.md.md",
+    "_posts/2025-12-03-Ball-Point-Pens.md.md",
+    "_posts/2025-12-03-facial-tissue.md.md",
+    "_posts/2025-12-03-dish-soap.md.md",
     "poole/poole/assets/airfresh.jpg",
     "poole/poole/assets/carewash.jpg",
     "poole/poole/assets/download.jpg",
