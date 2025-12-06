@@ -147,14 +147,15 @@
             "id": "75ae81cbef590085",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "_posts/25-12-06-kids-winter-boots.md.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "25-12-06-kids-winter-boots.md"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -318,13 +319,13 @@
   },
   "active": "75ae81cbef590085",
   "lastOpenFiles": [
+    "_posts/25-12-06-kids-winter-boots.md.md",
     "_site/2025/12/06/kids-winter-boots.md/index.html",
     "_site/2025/12/06/kids-winter-boots.md",
     "_site/2025/12/06",
     "_site/page3/index.html",
     "_site/page3",
     "_posts/2025-11-24-mens-wallets.md.md",
-    "_posts/25-12-06-kids-winter-boots.md.md",
     "_site/ramseeker/index.html",
     "_site/ramseeker",
     "ramseeker.md",
@@ -337,7 +338,6 @@
     "_site/about/index.html",
     "_site/about",
     "_site/archive/index.html",
-    "_site/archive",
     "_site/2025/11/24/travel-mug.md",
     "_site/2025/11/24/mens-puffer-coat.md",
     "_site/2025/11/24/kid-schechers-shoes-with-lights.md",
