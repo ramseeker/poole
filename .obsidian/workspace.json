@@ -149,16 +149,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/25-12-06-kids-winter-boots.md.md",
+                "file": "ramseeker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-12-06-kids-winter-boots.md"
+              "title": "ramseeker"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -316,11 +316,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75ae81cbef590085",
+  "active": "b04cdb8c88a196bc",
   "lastOpenFiles": [
+    "ramseeker.md",
+    "_posts/25-12-06-kids-winter-boots.md.md",
     "Gemfile.lock",
     "firebase-debug.log",
-    "_posts/25-12-06-kids-winter-boots.md.md",
     "_site/2025/12/06/kids-winter-boots.md/index.html",
     "_site/2025/12/06/kids-winter-boots.md",
     "_site/2025/12/06",
@@ -329,7 +330,6 @@
     "_posts/2025-11-24-mens-wallets.md.md",
     "_site/ramseeker/index.html",
     "_site/ramseeker",
-    "ramseeker.md",
     "_posts/2025-12-02-pots-pans.md.md",
     "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
     "about.md",
@@ -337,7 +337,6 @@
     "pages/contents.md",
     "_site/about/index.html",
     "_site/about",
-    "_site/archive/index.html",
     "_site/2025/11/24/travel-mug.md",
     "_site/2025/11/24/mens-puffer-coat.md",
     "_site/2025/11/24/kid-schechers-shoes-with-lights.md",
