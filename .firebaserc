@@ -1,6 +1,7 @@
 {
   "projects": {
-    "jims": "jims-926e6"
+    "jims": "jims-926e6",
+    "default": "jims-926e6"
   },
   "targets": {},
   "etags": {}
