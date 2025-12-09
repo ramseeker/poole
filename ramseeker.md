@@ -51,6 +51,7 @@ layout: page
       color: #313131;
       text-rendering: optimizeLegibility;
     }
+    
 
     h1 {
       font-size: 2rem;
