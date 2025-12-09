@@ -231,6 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ramseeker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +241,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ramseeker"
             }
           },
           {
@@ -316,7 +317,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123cb4962efaf13d",
+  "active": "b04cdb8c88a196bc",
   "lastOpenFiles": [
     "_site/facial-tissue.html",
     "_site/2025/12/07/10-inch-photo-frame/index.html",
