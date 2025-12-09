@@ -328,11 +328,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "daily-notes-editor:Open Daily Note Editor": false
     }
   },
   "active": "5ef5a0441e97d9c3",
   "lastOpenFiles": [
+    "_site/2025-12-09.md",
+    "2025-12-09.md",
     "conflict-files-obsidian-git.md",
     "_site/conflict-files-obsidian-git.md",
     "ramseeker.md",
@@ -367,8 +370,6 @@
     "_posts/2025-11-24-mens-wallets.md",
     "_posts/2025-11-30-mens-levis-jeans.md.md",
     "_posts/2025-12-02-dishcloths.md.md",
-    "_posts/2025-12-02-kitchen-dishes.md.md",
-    "_posts/2025-12-02-marlboro-coffeep-cup.md.md",
     "poole/poole/assets/airfresh.jpg",
     "poole/poole/assets/carewash.jpg",
     "poole/poole/assets/download.jpg",
