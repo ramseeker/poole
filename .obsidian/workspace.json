@@ -77,15 +77,14 @@
             "id": "5ef5a0441e97d9c3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ramseeker.md",
-                "bFile": "ramseeker.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "_posts/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ramseeker"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -230,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a8e67c16a13a3203",
@@ -316,7 +316,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,6 +335,7 @@
   },
   "active": "5ef5a0441e97d9c3",
   "lastOpenFiles": [
+    "_posts/Untitled.md",
     "_site/2025-12-09.md",
     "2025-12-09.md",
     "conflict-files-obsidian-git.md",
@@ -369,7 +371,6 @@
     "_posts/2025-11-24-travel-mug.md.md",
     "_posts/2025-11-24-mens-wallets.md",
     "_posts/2025-11-30-mens-levis-jeans.md.md",
-    "_posts/2025-12-02-dishcloths.md.md",
     "poole/poole/assets/airfresh.jpg",
     "poole/poole/assets/carewash.jpg",
     "poole/poole/assets/download.jpg",
