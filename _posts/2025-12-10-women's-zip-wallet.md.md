@@ -1,6 +1,9 @@
 ---
 title: Women's Zip Wallet
 layout: post
+tags:
+  - "#accessories"
+  - "#womens"
 ---
 This really isn't *mine* per se, but it's the wife's that's considered in the household s I will write about it. 
 ![senior women hand saving cash in wallet ](https://images.unsplash.com/photo-1624454003060-fc7189ed6242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHx3b21lbnMlMjB3YWxsZXR8ZW58MHwwfHx8MTc2NTM4OTg3NXww&ixlib=rb-4.1.0&q=80&w=1080)

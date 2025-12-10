@@ -2,10 +2,7 @@
 title: Men's Wallets
 layout: post
 tags:
-  - accessories
   - bedroom
-  - clothing
-  - mens
 ---
 
 Oh, wallets. I've had a few in my lifetime but they've never seemed to be the one. I had a [velcro wallet](https://amzn.to/4oev25n) one once and that was great until you opened it and realized that people were staring. 
@@ -31,5 +28,5 @@ If my pick doesn't do it for you there's a few other wallets that might work and
 
 
 
- #bedroom  #mens #accessories
+
  

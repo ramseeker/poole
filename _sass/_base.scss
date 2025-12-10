@@ -13,7 +13,7 @@ body {
   font-size: var(--body-font-size);
   line-height: var(--body-line-height);
   color: var(--body-color);
-  background-color: var(--body-bg); 
+  background-color: white; 
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -80,3 +80,13 @@ input[type=text] {
 
 
 }
+
+
+
+.page-tag {
+  border-radius: 5px;
+  display: inline-block;
+  padding: 4px 3px;
+  margin-right: 4px;
+}
+
