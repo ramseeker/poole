@@ -91,13 +91,14 @@
             "id": "7a961bf23b4db640",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "_posts/2025-12-10-women's-zip-wallet.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-12-10-women's-zip-wallet.md"
             }
           },
           {
@@ -347,11 +348,15 @@
   },
   "active": "7a961bf23b4db640",
   "lastOpenFiles": [
+    "firebase-debug.log",
+    "_site/2025/12/10/women's-zip-wallet.md/index.html",
+    "_site/2025/12/10/women's-zip-wallet.md",
+    "_site/2025/12/10",
     "ramseeker.md",
+    "_posts/2025-12-10-women's-zip-wallet.md.md",
     "Untitled.base",
     "_posts/2025-12-09-Paw-Patrol-Watch.md.md",
     "2025-12-09.md",
-    "firebase-debug.log",
     "_site/2025/12/09/Paw-Patrol-Watch.md/index.html",
     "_site/2025/12/09/Paw-Patrol-Watch.md",
     "_site/2025-12-09-Paw-Patrol-Watch.md/index.html",
@@ -366,7 +371,6 @@
     "_site/firebase-debug.log",
     "_site/firebase.json",
     "firebase.json",
-    "_site/2025/12/07/10-inch-photo-frame/index.html",
     "_posts/2025-12-02-pots-pans.md.md",
     "_posts/2025-12-07-10-inch-photo frame.md",
     "_posts/25-12-06-kids-winter-boots.md.md",
@@ -380,8 +384,6 @@
     "_site/2025/11/24/mens-puffer-coat.md",
     "_site/2025/11/24/kid-schechers-shoes-with-lights.md",
     "_site/2025/11/20/Mens-adidas-hoodie.md",
-    "_posts/2025-11-20-Mens-adidas-hoodie.md.md",
-    "_posts/2025-11-21-Trivets.md.md",
     "poole/poole/assets/airfresh.jpg",
     "poole/poole/assets/carewash.jpg",
     "poole/poole/assets/download.jpg",
