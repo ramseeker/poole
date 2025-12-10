@@ -91,14 +91,13 @@
             "id": "7a961bf23b4db640",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "ramseeker.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "ramseeker"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -348,6 +347,8 @@
   },
   "active": "7a961bf23b4db640",
   "lastOpenFiles": [
+    "ramseeker.md",
+    "Untitled.base",
     "_posts/2025-12-09-Paw-Patrol-Watch.md.md",
     "2025-12-09.md",
     "firebase-debug.log",
@@ -362,12 +363,10 @@
     "_site/2025-12-09.md",
     "conflict-files-obsidian-git.md",
     "_site/conflict-files-obsidian-git.md",
-    "ramseeker.md",
     "_site/firebase-debug.log",
     "_site/firebase.json",
     "firebase.json",
     "_site/2025/12/07/10-inch-photo-frame/index.html",
-    "_site/2025/12/07/10-inch-photo-frame",
     "_posts/2025-12-02-pots-pans.md.md",
     "_posts/2025-12-07-10-inch-photo frame.md",
     "_posts/25-12-06-kids-winter-boots.md.md",

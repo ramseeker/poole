@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "shortest"
 }
