@@ -102,6 +102,20 @@
             }
           },
           {
+            "id": "dceacc67c117d1d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-10-Paper-Mate-Write-Bros-Pen.md"
+            }
+          },
+          {
             "id": "2753dbd20cd10eaa",
             "type": "leaf",
             "state": {
@@ -186,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -346,12 +360,17 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "7a961bf23b4db640",
+  "active": "178550fd613caea1",
   "lastOpenFiles": [
-    "_posts/2025-11-24-mens-wallets.md.md",
-    "_posts/2025-12-10-women's-zip-wallet.md.md",
-    "_site/styles.css.map",
     "firebase-debug.log",
+    "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md/index.html",
+    "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md",
+    "_site/2025-12-10-Paper-Mate-Write-Bros-Pen.md/index.html",
+    "_site/2025-12-10-Paper-Mate-Write-Bros-Pen.md",
+    "_posts/2025-12-10-women's-zip-wallet.md.md",
+    "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
+    "_posts/2025-11-24-mens-wallets.md.md",
+    "_site/styles.css.map",
     "_site/2025/12/10/women's-zip-wallet.md/index.html",
     "_site/2025/12/10/women's-zip-wallet.md",
     "_site/2025/12/10",
@@ -370,7 +389,6 @@
     "_site/2025-12-09.md",
     "conflict-files-obsidian-git.md",
     "_site/conflict-files-obsidian-git.md",
-    "_site/firebase-debug.log",
     "_posts/2025-12-02-pots-pans.md.md",
     "_posts/2025-12-07-10-inch-photo frame.md",
     "_posts/25-12-06-kids-winter-boots.md.md",
@@ -380,9 +398,6 @@
     "archive.md",
     "pages/contents.md",
     "_site/2025/11/24/travel-mug.md",
-    "_site/2025/11/24/mens-puffer-coat.md",
-    "_site/2025/11/24/kid-schechers-shoes-with-lights.md",
-    "_site/2025/11/20/Mens-adidas-hoodie.md",
     "poole/poole/assets/airfresh.jpg",
     "poole/poole/assets/carewash.jpg",
     "poole/poole/assets/download.jpg",
