@@ -74,48 +74,6 @@
             }
           },
           {
-            "id": "5ef5a0441e97d9c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-12-09-floor-steamer.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-09-floor-steamer.md"
-            }
-          },
-          {
-            "id": "7a961bf23b4db640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-12-10-women's-zip-wallet.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-10-women's-zip-wallet.md"
-            }
-          },
-          {
-            "id": "dceacc67c117d1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-10-Paper-Mate-Write-Bros-Pen.md"
-            }
-          },
-          {
             "id": "2753dbd20cd10eaa",
             "type": "leaf",
             "state": {
@@ -200,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,6 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ramseeker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +241,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ramseeker"
             }
           },
           {
@@ -343,8 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,57 +314,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "daily-notes-editor:Open Daily Note Editor": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "178550fd613caea1",
+  "active": "b04cdb8c88a196bc",
   "lastOpenFiles": [
-    "firebase-debug.log",
-    "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md/index.html",
-    "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md",
-    "_site/2025-12-10-Paper-Mate-Write-Bros-Pen.md/index.html",
-    "_site/2025-12-10-Paper-Mate-Write-Bros-Pen.md",
     "_posts/2025-12-10-women's-zip-wallet.md.md",
     "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
-    "_posts/2025-11-24-mens-wallets.md.md",
-    "_site/styles.css.map",
-    "_site/2025/12/10/women's-zip-wallet.md/index.html",
-    "_site/2025/12/10/women's-zip-wallet.md",
-    "_site/2025/12/10",
-    "ramseeker.md",
-    "Untitled.base",
-    "_posts/2025-12-09-Paw-Patrol-Watch.md.md",
-    "2025-12-09.md",
-    "_site/2025/12/09/Paw-Patrol-Watch.md/index.html",
-    "_site/2025/12/09/Paw-Patrol-Watch.md",
-    "_site/2025-12-09-Paw-Patrol-Watch.md/index.html",
-    "_site/2025-12-09-Paw-Patrol-Watch.md",
     "_posts/2025-12-09-floor-steamer.md.md",
-    "_site/2025/12/09/floor-steamer.md/index.html",
-    "_site/2025/12/09/floor-steamer.md",
-    "_site/2025/12/09",
-    "_site/2025-12-09.md",
-    "conflict-files-obsidian-git.md",
-    "_site/conflict-files-obsidian-git.md",
-    "_posts/2025-12-02-pots-pans.md.md",
-    "_posts/2025-12-07-10-inch-photo frame.md",
-    "_posts/25-12-06-kids-winter-boots.md.md",
+    "_posts/2025-12-09-Paw-Patrol-Watch.md.md",
+    "Clippings/The Easiest Way to Setup Obsidian Git (to backup notes) - Share & showcase.md",
+    "ramseeker.md",
+    "Clippings",
+    "_site/facial-tissue.html",
+    "_site/2025/12/07/10-inch-photo-frame/index.html",
+    "_site/2025/12/06/kids-winter-boots.md/index.html",
+    "_site/2025/12/04/hankerchief.md/index.html",
+    "_site/2025/12/03/kids-winter-hat.md/index.html",
+    "_site/2025/12/03/kids-mittens.md/index.html",
+    "_site/2025/12/03/kids-amazon-tablet.md/index.html",
+    "_site/2025/12/03/dish-soap.md/index.html",
+    "_site/2025/12/03/Ball-Point-Pens.md/index.html",
     "_site/2025/12/06/kids-winter-boots.md",
-    "_posts/2025-11-22-we-fed-the-sea-monkeys.md.md",
-    "about.md",
-    "archive.md",
-    "pages/contents.md",
+    "_site/2025/12/04/hankerchief.md",
+    "_site/2025/12/03/kids-winter-hat.md",
+    "_site/2025/12/03/kids-mittens.md",
+    "_site/2025/12/03/kids-amazon-tablet.md",
+    "_site/2025/12/03/dish-soap.md",
+    "_site/2025/12/03/Ball-Point-Pens.md",
+    "_site/2025/12/02/steel-wool.md",
+    "_site/2025/12/02/pots-pans.md",
+    "_site/2025/12/02/marlboro-coffeep-cup.md",
+    "_site/2025/12/02/kitchen-dishes.md",
+    "_site/2025/12/02/dishcloths.md",
+    "_site/2025/11/22/we-fed-the-sea-monkeys.md",
     "_site/2025/11/24/travel-mug.md",
-    "poole/poole/assets/airfresh.jpg",
-    "poole/poole/assets/carewash.jpg",
-    "poole/poole/assets/download.jpg",
-    "poole/poole/assets/trivet.png",
-    "poole/poole/assets/corktrivet.png",
-    "poole/poole/assets/windshield.jpg",
-    "poole/poole/assets/laptopcase.jpg",
-    "poole/poole/assets/printer.jpg",
-    "poole/poole/assets/goldfish.png",
-    "poole/poole/assets/riverwalk.jpg"
+    "_site/2025/11/24/mens-wallets.md",
+    "_site/2025/11/24/mens-puffer-coat.md",
+    "_site/2025/11/24/kid-schechers-shoes-with-lights.md",
+    "_site/2025/11/30/mens-levis-jeans.md",
+    "_site/2025/11/20/Mens-adidas-hoodie.md",
+    "_site/2025/11/21/Trivets.md",
+    "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
+    "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
+    "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",
+    "_site/cache/resize/72b6a5b52c436f5685d2ffbf8afdccfa_800.jpg",
+    "_site/cache/resize/5fc0383c7519984a6eb23fdc22d6206b_800.jpg",
+    "_site/cache/resize/5cb6b89cde7e46582fee82a85553ea1f_800x400.jpg",
+    "_site/cache/resize/5cb6b89cde7e46582fee82a85553ea1f_800.jpg",
+    "_site/cache/resize/453e19d5e7cce59ca0948da1157c950c_800.jpg",
+    "_site/cache/resize/37110e61e5574d6f25060b5396479f63_800.jpg",
+    "_site/cache/resize/37110e61e5574d6f25060b5396479f63_400.jpg"
   ]
 }
