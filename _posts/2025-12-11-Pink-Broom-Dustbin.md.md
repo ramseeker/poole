@@ -31,5 +31,6 @@ I like this one due to the stuff brushes and the dustpan itself has some bristle
 
 This broom and dustpan set is cheaper by about ten bucks and looks to be pretty much the same. 
 
-Shop Brooms and Dustpans on Amazon
+[Shop Brooms and Dustpans on Amazon](https://amzn.to/4pzUDHu)
+
 
