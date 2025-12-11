@@ -116,6 +116,20 @@
             }
           },
           {
+            "id": "f232359e06317796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-11-Pink-Broom-Dustbin.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-11-Pink-Broom-Dustbin.md"
+            }
+          },
+          {
             "id": "2753dbd20cd10eaa",
             "type": "leaf",
             "state": {
@@ -200,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -343,8 +357,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,13 +372,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dceacc67c117d1d5",
+  "active": "f232359e06317796",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "_posts/2025-12-11-Pink-Broom-Dustbin.md.md",
     "_site/2025/12/11/Pink-Broom-Dustbin.md/index.html",
     "_site/2025/12/11/Pink-Broom-Dustbin.md",
     "_site/2025/12/11",
     "_posts/2025-12-04-hankerchief.md.md",
-    "_posts/2025-12-11-Pink-Broom-Dustbin.md.md",
     "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
     "firebase-debug.log",
     "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md/index.html",
@@ -384,12 +398,10 @@
     "2025-12-09.md",
     "_site/2025/12/09/Paw-Patrol-Watch.md/index.html",
     "_site/2025/12/09/Paw-Patrol-Watch.md",
-    "_site/2025-12-09-Paw-Patrol-Watch.md/index.html",
     "_site/2025-12-09-Paw-Patrol-Watch.md",
     "_posts/2025-12-09-floor-steamer.md.md",
     "_site/2025/12/09/floor-steamer.md",
     "_site/2025-12-09.md",
-    "conflict-files-obsidian-git.md",
     "_site/conflict-files-obsidian-git.md",
     "_posts/2025-12-02-pots-pans.md.md",
     "_posts/2025-12-07-10-inch-photo frame.md",
