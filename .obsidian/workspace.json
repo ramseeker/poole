@@ -74,6 +74,20 @@
             }
           },
           {
+            "id": "1bdaa0317a607382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "2753dbd20cd10eaa",
             "type": "leaf",
             "state": {
@@ -158,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -317,14 +331,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b04cdb8c88a196bc",
+  "active": "1bdaa0317a607382",
   "lastOpenFiles": [
+    "ramseeker.md",
+    "conflict-files-obsidian-git.md",
     "_posts/2025-12-10-women's-zip-wallet.md.md",
     "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
     "_posts/2025-12-09-floor-steamer.md.md",
     "_posts/2025-12-09-Paw-Patrol-Watch.md.md",
     "Clippings/The Easiest Way to Setup Obsidian Git (to backup notes) - Share & showcase.md",
-    "ramseeker.md",
     "Clippings",
     "_site/facial-tissue.html",
     "_site/2025/12/07/10-inch-photo-frame/index.html",
@@ -354,7 +369,6 @@
     "_site/2025/11/24/kid-schechers-shoes-with-lights.md",
     "_site/2025/11/30/mens-levis-jeans.md",
     "_site/2025/11/20/Mens-adidas-hoodie.md",
-    "_site/2025/11/21/Trivets.md",
     "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
     "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
     "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",
