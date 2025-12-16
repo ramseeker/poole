@@ -190,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -318,7 +318,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75ae81cbef590085",
+  "active": "04aaadf1c2e00eb4",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_posts/2025-12-03-kids-winter-hat.md.md",
