@@ -13,5 +13,5 @@
   "pixabayApiKey": "",
   "insertBackLink": false,
   "pexelsApiKey": "",
-  "insertReferral": true
+  "insertReferral": false
 }

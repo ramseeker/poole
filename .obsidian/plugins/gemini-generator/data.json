@@ -1,0 +1,5 @@
+{
+  "apiKey": "AIzaSyAdH1gVpvD9FdS5sLq7OQbgSoS5-aQZr2Y",
+  "removeHeadlineEnabled": false,
+  "defaultPrompt": "Write a me a prduct revew  with the title: {TITLE} \n You are writing directly in Obsidian thus you do not need an extra markdown environment. Also do not use any properties"
+}
