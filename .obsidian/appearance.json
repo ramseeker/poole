@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal",
+  "accentColor": "#0055ff",
+  "cssTheme": "GitHub Theme",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "baseFontSize": 20
