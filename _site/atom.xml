@@ -4,11 +4,7 @@
  <title>jim's</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
-<<<<<<< HEAD
- <updated>2025-12-11T17:00:45-05:00</updated>
-=======
- <updated>2025-12-11T16:54:57-05:00</updated>
->>>>>>> origin/main
+ <updated>2025-12-20T16:57:17-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -49,7 +45,7 @@
 
 &lt;p&gt;This broom and dustpan set is cheaper by about ten bucks and looks to be pretty much the same.&lt;/p&gt;
 
-&lt;p&gt;Shop Brooms and Dustpans on Amazon&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://amzn.to/4pzUDHu&quot; class=&quot;web-link&quot;&gt;Shop Brooms and Dustpans on Amazon&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>

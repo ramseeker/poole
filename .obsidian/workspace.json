@@ -211,8 +211,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,8 +317,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75ae81cbef590085",
+  "active": "178550fd613caea1",
   "lastOpenFiles": [
+    "firebase-debug.log",
+    "_site/2025/12/11/Pink-Broom-Dustbin.md/index.html",
+    "_site/2025/12/11/Pink-Broom-Dustbin.md",
+    "_site/2025/12/11",
     "conflict-files-obsidian-git.md",
     "_posts/2025-12-03-kids-winter-hat.md.md",
     "_posts/2025-12-11-Pink-Broom-Dustbin.md.md",
@@ -341,8 +344,6 @@
     "Clippings/The Easiest Way to Setup Obsidian Git (to backup notes) - Share & showcase.md",
     "Clippings",
     "_site/facial-tissue.html",
-    "_site/2025/12/07/10-inch-photo-frame/index.html",
-    "_site/2025/12/06/kids-winter-boots.md/index.html",
     "_site/2025/12/06/kids-winter-boots.md",
     "_site/2025/12/04/hankerchief.md",
     "_site/2025/12/03/kids-winter-hat.md",
@@ -354,8 +355,6 @@
     "_site/2025/12/02/pots-pans.md",
     "_site/2025/12/02/marlboro-coffeep-cup.md",
     "_site/2025/12/02/kitchen-dishes.md",
-    "_site/2025/12/02/dishcloths.md",
-    "_site/2025/11/22/we-fed-the-sea-monkeys.md",
     "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
     "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
     "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",
