@@ -13,15 +13,152 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-01-07-keychron-b1p-keyboard.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07-keychron-b1p-keyboard"
+              "title": "about"
+            }
+          },
+          {
+            "id": "94330f1c72314a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-02-pots-pans.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-02-pots-pans.md"
+            }
+          },
+          {
+            "id": "cf410daa75fa489f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-02-kitchen-sponge.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-02-kitchen-sponge.md"
+            }
+          },
+          {
+            "id": "9017982dca8d9013",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b04cdb8c88a196bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ramseeker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ramseeker"
+            }
+          },
+          {
+            "id": "2753dbd20cd10eaa",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "a03fc8bdbd59654b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-04-hankerchief.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-04-hankerchief.md"
+            }
+          },
+          {
+            "id": "c0c71bcea2297230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-03-facial-tissue.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-03-facial-tissue.md"
+            }
+          },
+          {
+            "id": "37d1b17c3a7e1668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-04-hankerchief.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-04-hankerchief.md"
+            }
+          },
+          {
+            "id": "7428bd56a1dce06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-03-kids-winter-hat.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-03-kids-winter-hat.md"
+            }
+          },
+          {
+            "id": "75ae81cbef590085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ramseeker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ramseeker"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -53,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +211,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,30 +318,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ca4dc7d750906f2",
+  "active": "123cb4962efaf13d",
   "lastOpenFiles": [
-    "about.md",
     "_posts/2026-01-07-keychron-b1p-keyboard.md",
-    "_posts/2025-12-22-craftsman-screwdriver-set.md.md",
-    "ramseeker.md",
-    "_posts/2025-12-03-kids-winter-hat.md.md",
-    "_posts/2025-12-04-hankerchief.md.md",
-    "_posts/2025-12-03-facial-tissue.md.md",
-    "_posts/2025-12-02-pots-pans.md.md",
-    "_posts/2025-12-02-dishcloths.md.md",
-    "_posts/2025-11-30-mens-levis-jeans.md.md",
-    "conflict-files-obsidian-git.md",
-    "firebase-debug.log",
-    "_site/2025/12/22/craftsman-screwdriver-set.md/index.html",
-    "_site/2025/12/22/craftsman-screwdriver-set.md",
     "_posts/2025-12-22-sennheiser-hd58x.md.md",
-    "_site/2025/12/22/sennheiser-hd58x.md/index.html",
-    "_site/2025/12/22/sennheiser-hd58x.md",
-    "_site/2025/12/22",
-    "_site/conflict-files-obsidian-git.md",
-    "_site/2025/12/11/Pink-Broom-Dustbin.md/index.html",
-    "_site/2025/12/11/Pink-Broom-Dustbin.md",
-    "_site/2025/12/11",
+    "_posts/2025-12-22-craftsman-screwdriver-set.md.md",
+    "firebase-debug.log",
+    "conflict-files-obsidian-git.md",
+    "_posts/2025-12-03-kids-winter-hat.md.md",
     "_posts/2025-12-11-Pink-Broom-Dustbin.md.md",
     "_site/2025/12/10/women's-zip-wallet.md/index.html",
     "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md/index.html",
@@ -211,13 +333,29 @@
     "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md",
     "_site/2025/12/10",
     "_site/2025/12/09/floor-steamer.md/index.html",
+    "_site/2025/12/09/Paw-Patrol-Watch.md/index.html",
     "_site/2025/12/09/floor-steamer.md",
     "_site/2025/12/09/Paw-Patrol-Watch.md",
+    "_site/2025/12/09",
     "_posts/2025-12-09-floor-steamer.md.md",
+    "ramseeker.md",
     "_posts/2025-12-10-women's-zip-wallet.md.md",
     "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
     "_posts/2025-12-09-Paw-Patrol-Watch.md.md",
     "Clippings/The Easiest Way to Setup Obsidian Git (to backup notes) - Share & showcase.md",
+    "Clippings",
+    "_site/facial-tissue.html",
+    "_site/2025/12/07/10-inch-photo-frame/index.html",
+    "_site/2025/12/06/kids-winter-boots.md",
+    "_site/2025/12/04/hankerchief.md",
+    "_site/2025/12/03/kids-winter-hat.md",
+    "_site/2025/12/03/kids-mittens.md",
+    "_site/2025/12/03/kids-amazon-tablet.md",
+    "_site/2025/12/03/dish-soap.md",
+    "_site/2025/12/03/Ball-Point-Pens.md",
+    "_site/2025/12/02/steel-wool.md",
+    "_site/2025/12/02/pots-pans.md",
+    "_site/2025/12/02/marlboro-coffeep-cup.md",
     "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
     "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
     "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",
