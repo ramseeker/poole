@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tty",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -318,7 +318,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123cb4962efaf13d",
+  "active": "9017982dca8d9013",
   "lastOpenFiles": [
     "_posts/2026-01-07-keychron-b1p-keyboard.md",
     "_posts/2025-12-22-sennheiser-hd58x.md.md",
