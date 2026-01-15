@@ -34,9 +34,21 @@
               "icon": "diff",
               "title": "Diff: conflict-files-obsidian-git"
             }
+          },
+          {
+            "id": "dd2a74cff49a8862",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123cb4962efaf13d",
+  "active": "dd2a74cff49a8862",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_posts/2026-01-07-keychron-b1p-keyboard.md",
