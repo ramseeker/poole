@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1eee38c0759bcd0a",
+        "id": "442c5521c4b3e44b",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca4dc7d750906f2",
+            "id": "07b73301c735900e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-01-07-keychron-b1p-keyboard.md",
+                "file": "Her Best Night Out.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07-keychron-b1p-keyboard"
-            }
-          },
-          {
-            "id": "1a07b66ac19ae45e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "dd2a74cff49a8862",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Her Best Night Out"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,43 +181,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd2a74cff49a8862",
+  "active": "07b73301c735900e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "_posts/2026-01-07-keychron-b1p-keyboard.md",
-    "_site/conflict-files-obsidian-git.md",
-    "_site/2026/01/07/keychron-b1p-keyboard/index.html",
-    "_site/2026/01/07/keychron-b1p-keyboard",
-    "_site/2026/01/07",
-    "_site/2026/01",
-    "_site/2026",
+    "Her Best Night Out.md",
     "about.md",
-    "_posts/2025-12-22-craftsman-screwdriver-set.md.md",
+    "_posts/2025-12-02-pots-pans.md.md",
     "ramseeker.md",
     "_posts/2025-12-03-kids-winter-hat.md.md",
     "_posts/2025-12-04-hankerchief.md.md",
     "_posts/2025-12-03-facial-tissue.md.md",
-    "_posts/2025-12-02-pots-pans.md.md",
-    "_posts/2025-12-02-dishcloths.md.md",
-    "_posts/2025-11-30-mens-levis-jeans.md.md",
-    "firebase-debug.log",
-    "_site/2025/12/22/craftsman-screwdriver-set.md/index.html",
-    "_site/2025/12/22/craftsman-screwdriver-set.md",
+    "_posts/2026-01-07-keychron-b1p-keyboard.md",
     "_posts/2025-12-22-sennheiser-hd58x.md.md",
-    "_site/2025/12/22/sennheiser-hd58x.md/index.html",
-    "_site/2025/12/22/sennheiser-hd58x.md",
-    "_site/2025/12/22",
-    "_site/2025/12/11/Pink-Broom-Dustbin.md/index.html",
-    "_site/2025/12/11/Pink-Broom-Dustbin.md",
+    "_posts/2025-12-22-craftsman-screwdriver-set.md.md",
+    "firebase-debug.log",
+    "conflict-files-obsidian-git.md",
     "_posts/2025-12-11-Pink-Broom-Dustbin.md.md",
+    "_site/2025/12/10/women's-zip-wallet.md/index.html",
+    "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md/index.html",
     "_site/2025/12/10/women's-zip-wallet.md",
     "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md",
+    "_site/2025/12/10",
+    "_site/2025/12/09/floor-steamer.md/index.html",
+    "_site/2025/12/09/Paw-Patrol-Watch.md/index.html",
     "_site/2025/12/09/floor-steamer.md",
     "_site/2025/12/09/Paw-Patrol-Watch.md",
+    "_site/2025/12/09",
     "_posts/2025-12-09-floor-steamer.md.md",
     "_posts/2025-12-10-women's-zip-wallet.md.md",
     "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
     "_posts/2025-12-09-Paw-Patrol-Watch.md.md",
+    "Clippings/The Easiest Way to Setup Obsidian Git (to backup notes) - Share & showcase.md",
+    "Clippings",
+    "_site/facial-tissue.html",
+    "_site/2025/12/07/10-inch-photo-frame/index.html",
+    "_site/2025/12/06/kids-winter-boots.md",
+    "_site/2025/12/04/hankerchief.md",
+    "_site/2025/12/03/kids-winter-hat.md",
+    "_site/2025/12/03/kids-mittens.md",
+    "_site/2025/12/03/kids-amazon-tablet.md",
     "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
     "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
     "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",
