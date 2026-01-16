@@ -34,21 +34,9 @@
               "icon": "diff",
               "title": "Diff: conflict-files-obsidian-git"
             }
-          },
-          {
-            "id": "dd2a74cff49a8862",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd2a74cff49a8862",
+  "active": "1a07b66ac19ae45e",
   "lastOpenFiles": [
+    "about.md",
     "conflict-files-obsidian-git.md",
     "_posts/2026-01-07-keychron-b1p-keyboard.md",
     "_site/conflict-files-obsidian-git.md",
@@ -217,7 +206,6 @@
     "_site/2026/01/07",
     "_site/2026/01",
     "_site/2026",
-    "about.md",
     "_posts/2025-12-22-craftsman-screwdriver-set.md.md",
     "ramseeker.md",
     "_posts/2025-12-03-kids-winter-hat.md.md",
