@@ -11,14 +11,10 @@
             "id": "07b73301c735900e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Her Best Night Out.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Her Best Night Out"
+              "title": "New tab"
             }
           }
         ]
@@ -181,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07b73301c735900e",
+  "active": "178550fd613caea1",
   "lastOpenFiles": [
     "Her Best Night Out.md",
     "about.md",
