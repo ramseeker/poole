@@ -7,5 +7,6 @@ gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 gem 'jekyll-wikirefs', '~> 0.0.16'
 
+ruby '3.4.4'
 
 
