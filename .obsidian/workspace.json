@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-01-27-Best-Selling-Mens-Socks.md.md",
+                "file": "_posts/2026-01-27-Best-Selling-All-Clad.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-27-Best-Selling-Mens-Socks.md"
+              "title": "2026-01-27-Best-Selling-All-Clad.md"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a8e67c16a13a3203",
@@ -199,9 +198,10 @@
   },
   "active": "6d422c4faebb2fe3",
   "lastOpenFiles": [
+    "_posts/2026-01-27-Best-Selling-Mens-Socks.md.md",
+    "_posts/2026-01-27-Best-Selling-All-Clad.md.md",
     "firebase-debug.log",
     "_posts/2026-01-27-Best-Selling-Fruit Bowls.md.md",
-    "_posts/2026-01-27-Best-Selling-Mens-Socks.md.md",
     "_site/Best-Selling-Mens-Socks.md/index.html",
     "_site/Best-Selling-Mens-Socks.md",
     "_site/Mens-socks.md/index.html",
