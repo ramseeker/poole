@@ -4,7 +4,7 @@
  <title>shopping lists</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2026-01-27T20:12:47-05:00</updated>
+ <updated>2026-01-27T20:16:35-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -478,6 +478,7 @@
 &lt;/ol&gt;
 
 &lt;p&gt;All prices are approximate and may vary based on current Amazon promotions and availability.&lt;/p&gt;
+
 </content>
  </entry>
  
