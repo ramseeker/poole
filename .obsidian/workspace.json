@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1eee38c0759bcd0a",
+        "id": "331fe95b0b141817",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca4dc7d750906f2",
+            "id": "7bab330d49365dc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2026-01-07-keychron-b1p-keyboard.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-01-07-keychron-b1p-keyboard"
-            }
-          },
-          {
-            "id": "1a07b66ac19ae45e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,19 +176,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a07b66ac19ae45e",
+  "active": "178550fd613caea1",
   "lastOpenFiles": [
-    "about.md",
+    "robots.md",
     "conflict-files-obsidian-git.md",
-    "_posts/2026-01-07-keychron-b1p-keyboard.md",
     "_site/conflict-files-obsidian-git.md",
+    "_site/robot_vacuum_comparison.html",
+    "robot_vacuum_comparison.html",
+    "_site/robots/index.html",
+    "_site/robots",
+    "_site/robots.md",
+    "_site/robot_vacuums.md",
+    "about.md",
+    "_site/robot vacuums.md",
+    "ramseeker.md",
+    "archive.md",
+    "_posts/2026-01-07-keychron-b1p-keyboard.md",
     "_site/2026/01/07/keychron-b1p-keyboard/index.html",
     "_site/2026/01/07/keychron-b1p-keyboard",
     "_site/2026/01/07",
     "_site/2026/01",
     "_site/2026",
     "_posts/2025-12-22-craftsman-screwdriver-set.md.md",
-    "ramseeker.md",
     "_posts/2025-12-03-kids-winter-hat.md.md",
     "_posts/2025-12-04-hankerchief.md.md",
     "_posts/2025-12-03-facial-tissue.md.md",
@@ -215,23 +205,14 @@
     "_posts/2025-12-02-dishcloths.md.md",
     "_posts/2025-11-30-mens-levis-jeans.md.md",
     "firebase-debug.log",
-    "_site/2025/12/22/craftsman-screwdriver-set.md/index.html",
     "_site/2025/12/22/craftsman-screwdriver-set.md",
     "_posts/2025-12-22-sennheiser-hd58x.md.md",
-    "_site/2025/12/22/sennheiser-hd58x.md/index.html",
     "_site/2025/12/22/sennheiser-hd58x.md",
-    "_site/2025/12/22",
-    "_site/2025/12/11/Pink-Broom-Dustbin.md/index.html",
     "_site/2025/12/11/Pink-Broom-Dustbin.md",
     "_posts/2025-12-11-Pink-Broom-Dustbin.md.md",
     "_site/2025/12/10/women's-zip-wallet.md",
     "_site/2025/12/10/Paper-Mate-Write-Bros-Pen.md",
     "_site/2025/12/09/floor-steamer.md",
-    "_site/2025/12/09/Paw-Patrol-Watch.md",
-    "_posts/2025-12-09-floor-steamer.md.md",
-    "_posts/2025-12-10-women's-zip-wallet.md.md",
-    "_posts/2025-12-10-Paper-Mate-Write-Bros-Pen.md.md",
-    "_posts/2025-12-09-Paw-Patrol-Watch.md.md",
     "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
     "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
     "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",
