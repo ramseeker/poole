@@ -3,9 +3,7 @@ title: "Best Selling Throw Pillows"
 layout: post
 ---
 
-# Best Selling Throw Pillows on Amazon
-
-![Three decorative pillows on a dark sofa](https://images.unsplash.com/photo-1767559811416-86d963b4704f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHx0aHJvdyUyMHBpbGxvd3xlbnwwfDB8fHwxNzY5NjM0NzUyfDA&ixlib=rb-4.1.0&q=80&w=1080)
+![Throw Pillows](https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&auto=format&fit=crop)
 
 ---
 

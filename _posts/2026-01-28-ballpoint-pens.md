@@ -2,9 +2,8 @@
 title: "Best Selling Ballpoint Pens"
 layout: post
 ---
-![silver and blue click pen](https://images.unsplash.com/photo-1585336261022-680e295ce3fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxwZW58ZW58MHwwfHx8MTc2OTYzNDc0MHww&ixlib=rb-4.1.0&q=80&w=1080)
-# Best Selling Ballpoint Pens on Amazon
 
+![Ballpoint Pens](https://images.unsplash.com/photo-1617083276880-c99ebe8188a7?w=1200&auto=format&fit=crop)
 
 ---
 

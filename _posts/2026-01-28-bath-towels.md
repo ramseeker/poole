@@ -1,12 +1,12 @@
 ---
-title: Best Selling Bath Towels
+title: "Best Selling Bath Towels"
 layout: post
 ---
 
-
+![Bath Towels](https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1200&auto=format&fit=crop)
 
 ---
-![Towels from a apartment](https://images.unsplash.com/photo-1523471826770-c437b4636fe6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHx0b3dlbHN8ZW58MHwwfHx8MTc2OTYzMzExMXww&ixlib=rb-4.1.0&q=80&w=1080)
+
 ## Cotton Bath Towel Sets
 
 ### 1. [American Soft Linen Luxury 4 Piece Bath Towel Set](https://www.amazon.com/American-Soft-Linen-Luxury-Piece/dp/B07QJSR6DV?tag=ramseeker-20)
