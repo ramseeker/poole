@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d422c4faebb2fe3",
+  "active": "178550fd613caea1",
   "lastOpenFiles": [
     "firebase-debug.log",
     "_posts/2026-01-28-charging-cables.md",
