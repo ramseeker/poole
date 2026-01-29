@@ -3,7 +3,7 @@ title: "Best Selling USB-C Dongles"
 layout: post
 ---
 
-![USB-C Dongles](https://images.unsplash.com/photo-1625948515584-da5b6b59f91c?w=1200&auto=format&fit=crop)
+![Notebook for MockUp](https://images.unsplash.com/photo-1730993872148-83acdfb597e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyN3x8bGFwdG9wJTIwZG9uZ2xlfGVufDB8MHx8fDE3Njk3MTMxMzB8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 ---
 
