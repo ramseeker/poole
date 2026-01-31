@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "2026-01-28-wifi-routers"
             }
+          },
+          {
+            "id": "f8a26f3484d715d5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "_posts/2026-01-29-computer-mice.md",
+                "bFile": "_posts/2026-01-29-computer-mice.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-01-29-computer-mice"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,11 +90,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a8e67c16a13a3203",
@@ -180,44 +198,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "178550fd613caea1",
+  "active": "f8a26f3484d715d5",
   "lastOpenFiles": [
-    "firebase-debug.log",
-    "_posts/2026-01-28-charging-cables.md",
-    "_posts/2026-01-28-fitness-trackers.md",
-    "_posts/2026-01-28-gaming-consoles.md",
-    "_posts/2026-01-28-laptops.md",
-    "_posts/2026-01-28-portable-speakers.md",
-    "_posts/2026-01-28-smartwatches.md",
-    "_posts/2026-01-28-tablets.md",
-    "_posts/2026-01-28-wireless-earbuds.md",
-    "_posts/2026-01-28-power-banks.md",
-    "_posts/2026-01-28-smartphones.md",
-    "_posts/2026-01-28-throw-pillows.md",
-    "_site/wireless-earbuds/index.html",
-    "_site/wireless-earbuds",
-    "_site/tablets/index.html",
-    "_site/tablets",
-    "_site/smartwatches/index.html",
-    "_site/smartwatches",
-    "_site/smartphones/index.html",
-    "_site/smartphones",
-    "_site/power-banks/index.html",
-    "_site/power-banks",
-    "_posts/2026-01-28-dog-bowls.md",
-    "_posts/2026-01-28-plastic-storage-containers.md",
+    "conflict-files-obsidian-git.md",
     "_posts/2026-01-28-wifi-routers.md",
-    "_posts/2026-01-28-ballpoint-pens.md",
-    "_posts/2026-01-28-bath-towels.md",
-    "_posts/2026-01-28-candles.md",
-    "_posts/2026-01-28-envelopes.md",
-    "_posts/2026-01-28-kitchen-utensils.md",
-    "_posts/2026-01-28-ballpoint-pens (1).md",
-    "_posts/2026-01-28-bath-towels (1).md",
-    "_posts/2026-01-28-candles (1).md",
-    "_posts/2026-01-28-envelopes (1).md",
-    "_posts/2026-01-28-kitchen-utensils (1).md",
-    "_posts/2026-01-28-throw-pillows (1).md",
+    "firebase-debug.log",
+    "_site/xlr-cables/index.html",
+    "_site/xlr-cables",
+    "_site/usb-c-laptop-chargers/index.html",
+    "_site/usb-c-laptop-chargers",
+    "_site/usb-c-dongles/index.html",
+    "_site/usb-c-dongles",
+    "_site/usb-c-cables/index.html",
+    "_site/usb-c-cables",
+    "_site/ultrawide-monitors/index.html",
+    "_site/conflict-files-obsidian-git.md",
+    "_posts/2026-01-29-8x10-picture-frames.md",
+    "_posts/2026-01-29-aa-batteries.md",
+    "_posts/2026-01-29-glass-pen-holders.md",
+    "_posts/2026-01-29-highlighters.md",
+    "_posts/2026-01-29-humidity-sensors.md",
+    "_posts/2026-01-29-portable-bluetooth-keyboards.md",
+    "_posts/2026-01-29-rulers.md",
+    "_posts/2026-01-29-scissors.md",
+    "_posts/2026-01-29-standing-desks.md",
+    "robots.md",
+    "_posts/2026-01-29-xlr-cables.md",
+    "_posts/2026-01-29-usb-c-laptop-chargers.md",
+    "_posts/2026-01-29-usb-c-dongles.md",
+    "_posts/2026-01-29-usb-c-cables.md",
+    "_posts/2026-01-29-ultrawide-monitors.md",
+    "_posts/2026-01-29-thunderbolt-docks.md",
+    "_posts/2026-01-29-rca-interconnects.md",
+    "_posts/2026-01-29-monitor-mounts.md",
+    "_posts/2026-01-29-laptop-stands.md",
+    "_posts/2026-01-29-headphone-amplifiers.md",
+    "_posts/2026-01-29-gaming-mats.md",
+    "_posts/2026-01-29-filing-cabinets.md",
     "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
     "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
     "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",

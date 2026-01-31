@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robot Vacuum Comparison</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .filter-section {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            color: #333;
+        }
+
+        select, input {
+            padding: 10px 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 1em;
+            transition: all 0.3s;
+        }
+
+        select:focus, input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+
+        .vacuum-card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+            transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .vacuum-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 45px rgba(0,0,0,0.25);
+        }
+
+        .vacuum-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+        }
+
+        .vacuum-icon {
+            width: 100%;
+            height: 200px;
+            background: #f5f5f5;
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 0 20px 0;
+            overflow: hidden;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+            position: relative;
+        }
+
+        .vacuum-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .brand-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(255,255,255,0.95);
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.85em;
+            color: #667eea;
+            z-index: 1;
+        }
+
+        .vacuum-name {
+            font-size: 1.5em;
+            font-weight: 700;
+            color: #333;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .vacuum-brand {
+            text-align: center;
+            color: #667eea;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .price {
+            font-size: 2em;
+            font-weight: 700;
+            color: #764ba2;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .features {
+            margin-bottom: 20px;
+        }
+
+        .feature-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .feature-label {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .feature-value {
+            color: #333;
+            font-weight: 500;
+        }
+
+        .rating {
+            display: flex;
+            justify-content: center;
+            gap: 5px;
+            margin: 20px 0;
+            font-size: 1.5em;
+        }
+
+        .star {
+            color: #ffd700;
+        }
+
+        .pros-cons {
+            margin-top: 20px;
+        }
+
+        .pros-cons h4 {
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .pros, .cons {
+            margin-bottom: 15px;
+        }
+
+        .pros li {
+            color: #27ae60;
+            margin-bottom: 5px;
+        }
+
+        .cons li {
+            color: #e74c3c;
+            margin-bottom: 5px;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        .cta-button {
+            width: 100%;
+            padding: 15px;
+            background: #FF9900;
+            color: #111;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-top: 15px;
+        }
+
+        .cta-button:hover {
+            transform: scale(1.02);
+            background: #FFB84D;
+            box-shadow: 0 5px 20px rgba(255, 153, 0, 0.4);
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 Robot Vacuum Showdown</h1>
+            <p class="subtitle">Find your perfect automated cleaning companion</p>
+        </header>
+
+        <div class="filter-section">
+            <div class="filter-group">
+                <label>Budget:</label>
+                <select id="budgetFilter">
+                    <option value="all">All Prices</option>
+                    <option value="budget">Under $300</option>
+                    <option value="mid">$300-$600</option>
+                    <option value="premium">$600+</option>
+                </select>
+
+                <label>Feature:</label>
+                <select id="featureFilter">
+                    <option value="all">All Features</option>
+                    <option value="mop">Mopping Capability</option>
+                    <option value="selfempty">Self-Empty Base</option>
+                    <option value="ai">AI Navigation</option>
+                </select>
+
+                <button class="cta-button" style="width: auto; padding: 10px 20px; margin: 0;" onclick="resetFilters()">Reset Filters</button>
+            </div>
+        </div>
+
+        <div class="comparison-grid" id="vacuumGrid">
+            <!-- Vacuum cards will be inserted here -->
+        </div>
+    </div>
+
+    <script>
+        const vacuums = [
+            {
+                name: "S8 Pro Ultra",
+                brand: "Roborock",
+                price: 1599,
+                rating: 4.8,
+                suction: "6000 Pa",
+                battery: "180 min",
+                features: ["AI Navigation", "Mopping", "Self-Empty", "Auto-Wash Mop"],
+                priceCategory: "premium",
+                pros: ["Exceptional cleaning power", "Fully automated maintenance", "Advanced obstacle avoidance"],
+                cons: ["High price point", "Large docking station"],
+                amazonLink: "https://www.amazon.com/s?k=Roborock+S8+Pro+Ultra&tag=ramseeker-20"
+            },
+            {
+                name: "J9+",
+                brand: "iRobot Roomba",
+                price: 899,
+                rating: 4.6,
+                suction: "N/A",
+                battery: "120 min",
+                features: ["AI Navigation", "Self-Empty", "Pet Hair Specialist"],
+                priceCategory: "premium",
+                pros: ["Excellent for pet owners", "Reliable brand", "Smart home integration"],
+                cons: ["No mopping function", "Expensive replacement parts"],
+                amazonLink: "https://www.amazon.com/s?k=iRobot+Roomba+J9+&tag=ramseeker-20"
+            },
+            {
+                name: "X1 Omni",
+                brand: "Dreame",
+                price: 1299,
+                rating: 4.7,
+                suction: "5300 Pa",
+                battery: "160 min",
+                features: ["AI Navigation", "Mopping", "Self-Empty", "Auto-Wash Mop"],
+                priceCategory: "premium",
+                pros: ["Great value for features", "Strong suction", "Effective mopping"],
+                cons: ["App could be better", "Slightly noisy"],
+                amazonLink: "https://www.amazon.com/s?k=Dreame+X1+Omni&tag=ramseeker-20"
+            },
+            {
+                name: "Q5+",
+                brand: "Roborock",
+                price: 419,
+                rating: 4.4,
+                suction: "2700 Pa",
+                battery: "180 min",
+                features: ["Self-Empty", "Precision Navigation"],
+                priceCategory: "mid",
+                pros: ["Great value", "Long battery life", "Reliable navigation"],
+                cons: ["No mopping", "Basic obstacle avoidance"],
+                amazonLink: "https://www.amazon.com/s?k=Roborock+Q5+&tag=ramseeker-20"
+            },
+            {
+                name: "11S Max",
+                brand: "Eufy",
+                price: 229,
+                rating: 4.3,
+                suction: "2000 Pa",
+                battery: "100 min",
+                features: ["Slim Design", "Quiet Operation"],
+                priceCategory: "budget",
+                pros: ["Very affordable", "Super quiet", "Slim profile"],
+                cons: ["Random navigation", "No self-empty", "Manual maintenance"],
+                amazonLink: "https://www.amazon.com/s?k=Eufy+11S+Max&tag=ramseeker-20"
+            },
+            {
+                name: "L10s Ultra",
+                brand: "Dreame",
+                price: 899,
+                rating: 4.5,
+                suction: "5300 Pa",
+                battery: "150 min",
+                features: ["AI Navigation", "Mopping", "Self-Empty", "Auto-Wash Mop"],
+                priceCategory: "premium",
+                pros: ["Comprehensive features", "Competitive pricing", "Strong performance"],
+                cons: ["Bulky base station", "Learning curve for app"],
+                amazonLink: "https://www.amazon.com/s?k=Dreame+L10s+Ultra&tag=ramseeker-20"
+            },
+            {
+                name: "G30",
+                brand: "Eufy",
+                price: 179,
+                rating: 4.2,
+                suction: "2000 Pa",
+                battery: "100 min",
+                features: ["Slim Design", "Smart Navigation"],
+                priceCategory: "budget",
+                pros: ["Excellent budget option", "Good for small apartments", "Easy to use"],
+                cons: ["No mopping", "Small dustbin", "Basic features"],
+                amazonLink: "https://www.amazon.com/s?k=Eufy+G30&tag=ramseeker-20"
+            },
+            {
+                name: "RV754CA",
+                brand: "Shark",
+                price: 199,
+                rating: 4.1,
+                suction: "1800 Pa",
+                battery: "90 min",
+                features: ["Edge Cleaning", "Voice Control"],
+                priceCategory: "budget",
+                pros: ["Affordable price", "Good edge cleaning", "Works with Alexa"],
+                cons: ["Short battery life", "Struggles with thick carpet", "Noisy operation"],
+                amazonLink: "https://www.amazon.com/s?k=Shark+RV754CA&tag=ramseeker-20"
+            },
+            {
+                name: "D4",
+                brand: "Yeedi",
+                price: 169,
+                rating: 4.0,
+                suction: "2000 Pa",
+                battery: "110 min",
+                features: ["Visual Navigation", "Carpet Detection"],
+                priceCategory: "budget",
+                pros: ["Very budget-friendly", "Decent suction", "Visual mapping"],
+                cons: ["Basic app", "No mopping", "Average build quality"],
+                amazonLink: "https://www.amazon.com/s?k=Yeedi+D4&tag=ramseeker-20"
+            },
+            {
+                name: "Wi-Fi Robot",
+                brand: "ILIFE",
+                price: 149,
+                rating: 3.9,
+                suction: "1500 Pa",
+                battery: "100 min",
+                features: ["Wi-Fi Connected", "Low Profile"],
+                priceCategory: "budget",
+                pros: ["Very cheap", "Gets under furniture", "Simple operation"],
+                cons: ["Random cleaning pattern", "Weak suction", "Basic obstacle detection"],
+                amazonLink: "https://www.amazon.com/s?k=ILIFE+robot+vacuum&tag=ramseeker-20"
+            },
+            {
+                name: "E5",
+                brand: "Coredy",
+                price: 139,
+                rating: 3.8,
+                suction: "1600 Pa",
+                battery: "120 min",
+                features: ["Boost Suction", "Drop Sensing"],
+                priceCategory: "budget",
+                pros: ["Lowest price point", "Long battery for price", "Good for bare floors"],
+                cons: ["Poor on carpet", "Very basic navigation", "Plastic build"],
+                amazonLink: "https://www.amazon.com/s?k=Coredy+E5+robot+vacuum&tag=ramseeker-20"
+            },
+            {
+                name: "BoostIQ 15C",
+                brand: "Eufy",
+                price: 189,
+                rating: 4.2,
+                suction: "1300 Pa",
+                battery: "100 min",
+                features: ["BoostIQ Tech", "Boundary Strips"],
+                priceCategory: "budget",
+                pros: ["Reliable brand", "Auto-adjusts suction", "Includes boundary strips"],
+                cons: ["Lower suction power", "Random navigation", "Small dustbin"],
+                amazonLink: "https://www.amazon.com/s?k=Eufy+BoostIQ+15C&tag=ramseeker-20"
+            }
+        ];
+
+        function createVacuumCard(vacuum) {
+            const stars = '★'.repeat(Math.floor(vacuum.rating)) + '☆'.repeat(5 - Math.floor(vacuum.rating));
+            
+            return `
+                <div class="vacuum-card">
+                    <div class="vacuum-icon">
+                        <img src="${vacuum.image}" alt="${vacuum.name}">
+                    </div>
+                    <div class="vacuum-name">${vacuum.name}</div>
+                    <div class="vacuum-brand">${vacuum.brand}</div>
+                    <div class="price">${vacuum.price}</div>
+                    <div class="rating">
+                        ${stars.split('').map(s => `<span class="star">${s}</span>`).join('')}
+                        <span style="color: #666; font-size: 0.7em; margin-left: 5px;">${vacuum.rating}/5</span>
+                    </div>
+                    <div class="features">
+                        <div class="feature-item">
+                            <span class="feature-label">Suction</span>
+                            <span class="feature-value">${vacuum.suction}</span>
+                        </div>
+                        <div class="feature-item">
+                            <span class="feature-label">Battery</span>
+                            <span class="feature-value">${vacuum.battery}</span>
+                        </div>
+                        <div class="feature-item">
+                            <span class="feature-label">Key Features</span>
+                            <span class="feature-value">${vacuum.features.length}</span>
+                        </div>
+                    </div>
+                    <div class="pros-cons">
+                        <div class="pros">
+                            <h4>✓ Pros</h4>
+                            <ul>
+                                ${vacuum.pros.map(pro => `<li>${pro}</li>`).join('')}
+                            </ul>
+                        </div>
+                        <div class="cons">
+                            <h4>✗ Cons</h4>
+                            <ul>
+                                ${vacuum.cons.map(con => `<li>${con}</li>`).join('')}
+                            </ul>
+                        </div>
+                    </div>
+                    <button class="cta-button" onclick="window.open('${vacuum.amazonLink}', '_blank')">View on Amazon</button>
+                </div>
+            `;
+        }
+
+        function renderVacuums(filteredVacuums = vacuums) {
+            const grid = document.getElementById('vacuumGrid');
+            grid.innerHTML = filteredVacuums.map(createVacuumCard).join('');
+        }
+
+        function filterVacuums() {
+            const budget = document.getElementById('budgetFilter').value;
+            const feature = document.getElementById('featureFilter').value;
+
+            let filtered = vacuums;
+
+            if (budget !== 'all') {
+                filtered = filtered.filter(v => v.priceCategory === budget);
+            }
+
+            if (feature !== 'all') {
+                const featureMap = {
+                    'mop': 'Mopping',
+                    'selfempty': 'Self-Empty',
+                    'ai': 'AI Navigation'
+                };
+                filtered = filtered.filter(v => 
+                    v.features.some(f => f.includes(featureMap[feature]))
+                );
+            }
+
+            renderVacuums(filtered);
+        }
+
+        function resetFilters() {
+            document.getElementById('budgetFilter').value = 'all';
+            document.getElementById('featureFilter').value = 'all';
+            renderVacuums();
+        }
+
+        document.getElementById('budgetFilter').addEventListener('change', filterVacuums);
+        document.getElementById('featureFilter').addEventListener('change', filterVacuums);
+
+        renderVacuums();
+    </script>
+</body>
+</html>
