@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "14b64a51507eb0e3",
+        "id": "be15dedaf8c9b3bf",
         "type": "tabs",
         "children": [
           {
-            "id": "6d422c4faebb2fe3",
+            "id": "a8f48b7752cb8299",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2026-01-28-wifi-routers.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-01-28-wifi-routers"
-            }
-          },
-          {
-            "id": "f8a26f3484d715d5",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "_posts/2026-01-29-gaming-mats.md",
-                "bFile": "_posts/2026-01-29-gaming-mats.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2026-01-29-gaming-mats"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,18 +178,28 @@
   },
   "active": "178550fd613caea1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Gemfile.lock",
-    "_posts/2026-01-28-wifi-routers.md",
     "firebase-debug.log",
-    "_site/xlr-cables/index.html",
-    "_site/xlr-cables",
-    "_site/usb-c-laptop-chargers/index.html",
-    "_site/usb-c-laptop-chargers",
-    "_site/usb-c-dongles/index.html",
-    "_site/usb-c-dongles",
-    "_site/usb-c-cables/index.html",
-    "_site/usb-c-cables",
+    "_site/table-lamps/index.html",
+    "_site/table-lamps",
+    "_site/smart-speakers/index.html",
+    "_site/smart-speakers",
+    "_site/recliner-chairs/index.html",
+    "_site/recliner-chairs",
+    "_site/pencils/index.html",
+    "_site/pencils",
+    "_site/office-chairs/index.html",
+    "_site/office-chairs",
+    "_posts/2026-01-30-acer-laptops.md",
+    "_posts/2026-01-30-asus-laptops.md",
+    "_posts/2026-01-30-dell-laptops.md",
+    "_posts/2026-01-30-hp-laptops.md",
+    "_posts/2026-01-30-office-chairs.md",
+    "_posts/2026-01-30-pencils.md",
+    "_posts/2026-01-30-recliner-chairs.md",
+    "_posts/2026-01-30-smart-speakers.md",
+    "_posts/2026-01-30-table-lamps.md",
+    "conflict-files-obsidian-git.md",
+    "_posts/2026-01-28-wifi-routers.md",
     "_site/conflict-files-obsidian-git.md",
     "_posts/2026-01-29-8x10-picture-frames.md",
     "_posts/2026-01-29-aa-batteries.md",
@@ -224,15 +214,6 @@
     "_posts/2026-01-29-xlr-cables.md",
     "_posts/2026-01-29-usb-c-laptop-chargers.md",
     "_posts/2026-01-29-usb-c-dongles.md",
-    "_posts/2026-01-29-usb-c-cables.md",
-    "_posts/2026-01-29-ultrawide-monitors.md",
-    "_posts/2026-01-29-thunderbolt-docks.md",
-    "_posts/2026-01-29-rca-interconnects.md",
-    "_posts/2026-01-29-monitor-mounts.md",
-    "_posts/2026-01-29-laptop-stands.md",
-    "_posts/2026-01-29-headphone-amplifiers.md",
-    "_posts/2026-01-29-gaming-mats.md",
-    "_posts/2026-01-29-filing-cabinets.md",
     "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
     "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
     "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",
