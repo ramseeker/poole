@@ -3,7 +3,6 @@ title: "Best Selling Table Lamps"
 layout: post
 ---
 
-![Table Lamps](https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=1200&auto=format&fit=crop)
 
 ---
 
