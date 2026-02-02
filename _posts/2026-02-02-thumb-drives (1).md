@@ -3,7 +3,6 @@ title: "Best Selling Thumb Drives & USB Flash Drives"
 layout: post
 ---
 
-![Thumb Drives](https://images.unsplash.com/photo-1588872658123-91318d0d90b0?w=1200&auto=format&fit=crop)
 
 ---
 

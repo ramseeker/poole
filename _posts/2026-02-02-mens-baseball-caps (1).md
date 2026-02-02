@@ -3,7 +3,6 @@ title: "Best Selling Men's Baseball Caps"
 layout: post
 ---
 
-![Baseball Caps](https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=1200&auto=format&fit=crop)
 
 ---
 

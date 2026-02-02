@@ -3,7 +3,6 @@ title: "Best Selling Men's Hiking Boots"
 layout: post
 ---
 
-![Men's Hiking Boots](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&auto=format&fit=crop)
 
 ---
 

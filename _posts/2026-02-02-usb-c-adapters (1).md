@@ -3,7 +3,6 @@ title: "Best Selling USB-C to USB-A Adapters"
 layout: post
 ---
 
-![USB-C Adapters](https://images.unsplash.com/photo-1625948515291-69613efd103f?w=1200&auto=format&fit=crop)
 
 ---
 

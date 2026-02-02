@@ -3,7 +3,6 @@ title: "Best Selling Throw Pillows & Decorative Cushions"
 layout: post
 ---
 
-![Throw Pillows](https://images.unsplash.com/photo-1567016432779-094069958ea5?w=1200&auto=format&fit=crop)
 
 ---
 

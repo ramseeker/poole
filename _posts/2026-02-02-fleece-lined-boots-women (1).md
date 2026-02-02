@@ -3,7 +3,6 @@ title: "Best Selling Fleece-Lined Boots for Women"
 layout: post
 ---
 
-![Fleece-Lined Winter Boots](https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=1200&auto=format&fit=crop)
 
 ---
 

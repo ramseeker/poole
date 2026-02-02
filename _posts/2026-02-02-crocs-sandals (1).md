@@ -3,7 +3,6 @@ title: "Best Selling Crocs Sandals & Slides"
 layout: post
 ---
 
-![Crocs Sandals](https://images.unsplash.com/photo-1603487742131-4160ec999306?w=1200&auto=format&fit=crop)
 
 ---
 

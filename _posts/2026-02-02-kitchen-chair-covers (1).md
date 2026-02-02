@@ -3,7 +3,6 @@ title: "Best Selling Kitchen Chair Covers & Seat Slipcovers"
 layout: post
 ---
 
-![Kitchen Chair Covers](https://images.unsplash.com/photo-1556912173-3bb406ef7e77?w=1200&auto=format&fit=crop)
 
 ---
 

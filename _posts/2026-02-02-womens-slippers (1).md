@@ -3,7 +3,6 @@ title: "Best Selling Women's Slippers"
 layout: post
 ---
 
-![Women's Slippers](https://images.unsplash.com/photo-1584555613497-9ecf9dd06f68?w=1200&auto=format&fit=crop)
 
 ---
 
