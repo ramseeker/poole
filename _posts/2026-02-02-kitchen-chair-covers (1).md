@@ -2,7 +2,7 @@
 title: "Best Selling Kitchen Chair Covers & Seat Slipcovers"
 layout: post
 ---
-
+![Eat in styel.](https://images.unsplash.com/photo-1656888385552-d72f9a153703?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxraXRjaGVuJTIwY2hhaXJ8ZW58MHwwfHx8MTc3MDA3NzY1MXww&ixlib=rb-4.1.0&q=80&w=1080)
 
 ---
 

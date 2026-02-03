@@ -2,10 +2,7 @@
 title: "Best Selling Crocs Sandals & Slides"
 layout: post
 ---
-
-
----
-
+![brown-and-white rubber clogs lot](https://images.unsplash.com/photo-1528701800487-ba01fea498c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw1fHxjcm9jc3xlbnwwfDB8fHwxNzcwMDc3NjEyfDA&ixlib=rb-4.1.0&q=80&w=1080)
 ## Classic Crocs Clogs
 
 ### 1. [Crocs Classic Clog](https://www.amazon.com/s?k=Crocs+Classic+Clog&tag=ramseeker-20)

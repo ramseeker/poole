@@ -2,7 +2,7 @@
 title: "Best Selling Kids Winter Boots"
 layout: post
 ---
-
+![Many warm and cozy winter boots are displayed.](https://images.unsplash.com/photo-1754327440273-84ae7fd7a54a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyOXx8a2lkcyUyMHdpbnRlciUyMGJvb3RzfGVufDB8MHx8fDE3NzAwNzc4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 ---
 

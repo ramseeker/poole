@@ -2,7 +2,7 @@
 title: "Best Selling USB-C to USB-A Adapters"
 layout: post
 ---
-
+![A one meter USB-C cable by Baseus. It has data lines and can carry display signals as well as USB, sound, etc.](https://images.unsplash.com/photo-1595756630452-736bc8ef3693?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzfHx1c2IlMjBjJTIwY2FibGV8ZW58MHwwfHx8MTc3MDA3Nzc0OXww&ixlib=rb-4.1.0&q=80&w=1080)
 
 ---
 

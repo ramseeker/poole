@@ -5,7 +5,7 @@ layout: post
 
 
 ---
-
+![the new mahabis curve.](https://images.unsplash.com/photo-1603218167744-4b6371f208c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzNHx8c2xpcHBlcnN8ZW58MHwwfHx8MTc3MDA3NzU1OHww&ixlib=rb-4.1.0&q=80&w=1080)
 ## Memory Foam & Comfort Slippers
 
 ### 1. [COFACE Women's Memory Foam House Slippers](https://www.amazon.com/dp/B0BLQVL5KW?tag=ramseeker-20)
