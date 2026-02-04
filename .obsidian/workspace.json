@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be15dedaf8c9b3bf",
+        "id": "232302821bcde6a7",
         "type": "tabs",
         "children": [
           {
-            "id": "a8f48b7752cb8299",
+            "id": "6927087b88cdfc15",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "178550fd613caea1",
+  "active": "6927087b88cdfc15",
   "lastOpenFiles": [
     "firebase-debug.log",
     "_site/winter-scarves-(1)/index.html",
