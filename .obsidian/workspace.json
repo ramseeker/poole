@@ -11,13 +11,33 @@
             "id": "6927087b88cdfc15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "about"
+            }
+          },
+          {
+            "id": "38264c978e8e43e8",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/41/1fa2c85d4a8d093bd2fa737fb85d6bba8eef348eba9b6a72cb237495589ca2",
+                "bFile": ".jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/41/1fa2c85d4a8d093bd2fa737fb85d6bba8eef348eba9b6a72cb237495589ca2",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 1fa2c85d4a8d093bd2fa737fb85d6bba8eef348eba9b6a72cb237495589ca2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,19 +196,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6927087b88cdfc15",
+  "active": "38264c978e8e43e8",
   "lastOpenFiles": [
-    "firebase-debug.log",
-    "_site/winter-scarves-(1)/index.html",
-    "_site/winter-scarves-(1)",
-    "_site/kids-winter-jackets-(1)/index.html",
-    "_site/kids-winter-jackets-(1)",
-    "_site/kids-winter-hats-(1)/index.html",
-    "_site/kids-winter-hats-(1)",
-    "_site/kids-winter-gloves-(1)/index.html",
-    "_site/kids-winter-gloves-(1)",
-    "_site/kids-winter-boots-(1)/index.html",
-    "_site/kids-winter-boots-(1)",
+    "conflict-files-obsidian-git.md",
+    "_site/conflict-files-obsidian-git.md",
+    "_site/womens-slippers-(1)/index.html",
+    "_site/womens-slippers-(1)",
+    "_site/usb-c-adapters-(1)/index.html",
+    "_site/usb-c-adapters-(1)",
+    "_site/thumb-drives-(1)/index.html",
+    "_site/thumb-drives-(1)",
+    "_site/throw-pillows-(1)/index.html",
+    "_site/throw-pillows-(1)",
+    "_site/mens-hiking-boots-(1)/index.html",
+    "_site/mens-hiking-boots-(1)",
+    "about.md",
+    "_posts/2026-02-02-womens-slippers (1).md",
+    "_posts/2026-02-02-usb-c-adapters (1).md",
+    "_posts/2026-02-02-thumb-drives (1).md",
+    "_posts/2026-02-02-throw-pillows (1).md",
+    "_posts/2026-02-02-mens-hiking-boots (1).md",
+    "_posts/2026-02-02-mens-baseball-caps (1).md",
+    "_posts/2026-02-02-kitchen-chair-covers (1).md",
+    "_posts/2026-02-02-fleece-lined-boots-women (1).md",
+    "_posts/2026-02-02-crocs-sandals (1).md",
+    "_posts/2026-02-02-area-rugs (1).md",
     "_posts/2026-01-30-table-lamps (1).md",
     "_posts/2026-01-31-adult-winter-boots (1).md",
     "_posts/2026-01-31-adult-winter-hats (1).md",
@@ -202,18 +234,6 @@
     "_posts/2026-01-31-kids-winter-boots.md",
     "_posts/2026-01-31-kids-winter-gloves.md",
     "_posts/2026-01-31-kids-winter-hats.md",
-    "_posts/2026-01-31-kids-winter-jackets.md",
-    "_posts/2026-01-31-winter-scarves.md",
-    "_posts/2026-01-30-acer-laptops.md",
-    "_posts/2026-01-30-asus-laptops.md",
-    "_posts/2026-01-30-dell-laptops.md",
-    "_posts/2026-01-30-hp-laptops.md",
-    "_posts/2026-01-30-office-chairs.md",
-    "_posts/2026-01-30-pencils.md",
-    "_posts/2026-01-30-recliner-chairs.md",
-    "_posts/2026-01-30-smart-speakers.md",
-    "_posts/2026-01-30-table-lamps.md",
-    "conflict-files-obsidian-git.md",
     "_site/cache/resize/dfc4695ce1ebb66da896910f9d6f00b8_800.jpg",
     "_site/cache/resize/c29687205a981e7f3505dbbfd7b648a8_800.jpg",
     "_site/cache/resize/80073c14f7faaf7fbfa71ac3b565d37d_800.jpg",
