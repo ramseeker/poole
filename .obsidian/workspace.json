@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "about"
             }
-          },
-          {
-            "id": "38264c978e8e43e8",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a8e67c16a13a3203",
@@ -180,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123cb4962efaf13d",
+  "active": "6927087b88cdfc15",
   "lastOpenFiles": [
     "_site/firebase-debug.log",
     "firebase-debug.log",
