@@ -1,6 +1,6 @@
 # Setup
-title: shopping lists
-url: https://shoppinglists.cc
+title: Grown Ups
+url: https://grownups.cc
 paginate: 10
 baseurl: ""
 permalink: /:title/
@@ -67,3 +67,6 @@ wikilinks:
 
 google_analytics: G-M6RD32CN4Q
 
+collections:
+  lists:
+    output: true

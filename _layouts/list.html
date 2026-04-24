@@ -1,0 +1,30 @@
+<h1>{{ page.title }}</h1>
+
+<p>{{ page.intro }}</p>
+
+<h2>What You’ll Need</h2>
+<ul>
+  {% for item in page.items %}
+    <li>
+      <strong>{{ item.name }}</strong> – {{ item.desc }}
+    </li>
+  {% endfor %}
+</ul>
+
+{% if page.optional %}
+<h2>Optional Upgrades</h2>
+<ul>
+  {% for item in page.optional %}
+    <li>
+      <strong>{{ item.name }}</strong> – {{ item.desc }}
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<h2>Quick Tips</h2>
+<ul>
+  {% for tip in page.tips %}
+    <li>{{ tip }}</li>
+  {% endfor %}
+</ul>

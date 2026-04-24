@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>shopping lists</title>
+ <title>Grown Ups</title>
  <link href="/atom.xml" rel="self"/>
+<<<<<<< HEAD
  <link href="http://localhost:4000/"/>
  <updated>2026-02-04T21:16:35-05:00</updated>
  <id>http://localhost:4000</id>
+=======
+ <link href="http://192.168.1.241:4000/"/>
+ <updated>2026-04-23T20:37:33-04:00</updated>
+ <id>http://192.168.1.241:4000</id>
+>>>>>>> bfdfed8 (grownups)
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
  
+<<<<<<< HEAD
  <entry>
    <title>Best Selling Tea Kettles</title>
    <link href="http://localhost:4000/tea-kettles/"/>
@@ -19586,5 +19593,7 @@ I would and definitely have recommend this coffee travel mug.&lt;/p&gt;
 </content>
  </entry>
  
+=======
+>>>>>>> bfdfed8 (grownups)
 
 </feed>
