@@ -1,6 +1,6 @@
 # Setup
-title: Grown Ups
-url: https://grownups.cc
+title: Shopping lists
+url: https://shoppinglists.cc
 paginate: 10
 baseurl: ""
 permalink: /:title/
